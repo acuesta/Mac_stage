@@ -11,14 +11,14 @@
       "title": "Software Engineer",
       "description": "Prueba introduction",
       "avatar": {
-        "alt": "avatar-300x300.png",
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/10/21/a5458d3c-c333-4939-92ab-6453de77960c_avatar-300x300.png"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/10/21/a5458d3c-c333-4939-92ab-6453de77960c_avatar-300x300.png",
+        "alt": "avatar-300x300.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: )",
         "country": "Estados Unidos",
         "region": "Hawái",
-        "municipality": "Honolulu",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Honolulu"
       }
     },
     "relevantLinks": [
@@ -35,26 +35,39 @@
         "URL": "http://www.aaaa3.com"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/foo"
-      },
-      {
         "type": "other",
         "URL": "https://www.stackoverflow.com/in/var"
       }
     ]
   },
-  "knowledge": {
-    "languages": [
+  "experience": {
+    "jobs": [
       {
-        "name": "French",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "Galician",
-        "level": "Full professional proficiency"
+        "organization": {
+          "name": "Manfred",
+          "URL": "https://www.getmanfred.com"
+        },
+        "roles": [
+          {
+            "name": "manfred developer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "backend developer"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
-    ],
+    ]
+  },
+  "knowledge": {
     "hardSkills": [
       {
         "skill": {
@@ -68,13 +81,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/foo"
-        },
-        {
-          "type": "other",
-          "URL": "https://www.stackoverflow.com/in/var"
+          "URL": "https://www.linkedin.com/in/foo",
+          "type": "linkedin"
         }
+      ],
+      "contactMails": [
+        "alvaro.cuesta@getmanfred.com"
       ]
     },
     "preferences": {
@@ -95,13 +107,5 @@
       ]
     },
     "status": "notAvailable"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "React",
-        "type": "technology"
-      }
-    ]
   }
 }

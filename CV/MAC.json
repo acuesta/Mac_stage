@@ -1,0 +1,107 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alvaro",
+      "surnames": "Cuesta V.",
+      "title": "Software Engineer 23",
+      "description": "Prueba introduction",
+      "avatar": {
+        "alt": "avatar-300x300.png",
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/10/21/a5458d3c-c333-4939-92ab-6453de77960c_avatar-300x300.png"
+      },
+      "location": {
+        "country": "Estados Unidos",
+        "region": "Hawái",
+        "municipality": "Honolulu",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "http://www.aaaa1.com"
+      },
+      {
+        "type": "other",
+        "URL": "http://www.aaaa2.com"
+      },
+      {
+        "type": "other",
+        "URL": "http://www.aaaa3.com"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/foo"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.stackoverflow.com/in/var"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "French",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Galician",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/foo"
+        },
+        {
+          "type": "other",
+          "URL": "https://www.stackoverflow.com/in/var"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Mobile Developer"
+      ]
+    },
+    "status": "notAvailable"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ]
+  }
+}

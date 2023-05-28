@@ -61,6 +61,16 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/foo",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/alcuvi",
+          "type": "other"
+        }
+      ],
       "contactMails": [
         "alvaro.cuesta@getmanfred.com"
       ],

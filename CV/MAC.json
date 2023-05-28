@@ -20,25 +20,7 @@
         "region": "Cantabria",
         "municipality": "San Vicente de la Barquera"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "http://www.aaaa1.com"
-      },
-      {
-        "type": "other",
-        "URL": "http://www.aaaa2.com"
-      },
-      {
-        "type": "other",
-        "URL": "http://www.aaaa3.com"
-      },
-      {
-        "type": "other",
-        "URL": "https://www.stackoverflow.com/in/var"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -83,6 +65,10 @@
         {
           "URL": "https://www.linkedin.com/in/foo",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/acuesta",
+          "type": "other"
         }
       ],
       "contactMails": [

@@ -15,10 +15,10 @@
         "alt": "avatar-300x300.png"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: )",
-        "country": "Estados Unidos",
-        "region": "Hawái",
-        "municipality": "Honolulu"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -87,6 +87,12 @@
       ],
       "contactMails": [
         "alvaro.cuesta@getmanfred.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "637814192",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {

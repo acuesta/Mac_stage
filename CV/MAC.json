@@ -63,11 +63,11 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/foo",
+          "URL": "https://www.linkedin.com/in/foo2",
           "type": "linkedin"
         },
         {
-          "URL": "https://twitter.com/alcuvi",
+          "URL": "https://twitter.com/alcuvi2",
           "type": "other"
         }
       ],

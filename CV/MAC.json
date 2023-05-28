@@ -15,10 +15,10 @@
         "alt": "avatar-300x300.png"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ3X-1XKcKSQ0RJG-EJlIc2Kc)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJCb0mj8-hSQ0RPPLdlcRfGaQ)",
         "country": "España",
         "region": "Cantabria",
-        "municipality": "San Vicente de la Barquera"
+        "municipality": "Prellezo"
       }
     }
   },
@@ -61,16 +61,6 @@
   },
   "careerPreferences": {
     "contact": {
-      "publicProfiles": [
-        {
-          "URL": "https://www.linkedin.com/in/foo2",
-          "type": "linkedin"
-        },
-        {
-          "URL": "https://twitter.com/alcuvi2",
-          "type": "other"
-        }
-      ],
       "contactMails": [
         "alvaro.cuesta@getmanfred.com"
       ],

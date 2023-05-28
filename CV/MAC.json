@@ -7,7 +7,7 @@
   "aboutMe": {
     "profile": {
       "name": "Alvaro",
-      "surnames": "Cuesta Viñolo",
+      "surnames": "Cuesta V.",
       "title": "Software Engineer",
       "description": "Prueba introduction",
       "avatar": {
@@ -61,16 +61,6 @@
   },
   "careerPreferences": {
     "contact": {
-      "publicProfiles": [
-        {
-          "URL": "https://www.linkedin.com/in/alcuvi_2",
-          "type": "linkedin"
-        },
-        {
-          "URL": "https://twitter.com/alcuvi_2",
-          "type": "other"
-        }
-      ],
       "contactMails": [
         "alvaro.cuesta@getmanfred.com"
       ],

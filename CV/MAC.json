@@ -65,6 +65,10 @@
         {
           "URL": "https://www.linkedin.com/in/alcuvi",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/fouz_es",
+          "type": "other"
         }
       ],
       "contactMails": [

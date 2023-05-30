@@ -68,6 +68,7 @@
     ]
   },
   "knowledge": {
+    "softSkills": [],
     "hardSkills": [
       {
         "skill": {

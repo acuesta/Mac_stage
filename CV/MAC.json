@@ -60,6 +60,29 @@
     "jobs": [
       {
         "organization": {
+          "name": "Manfred",
+          "URL": "https://www.getmanfred.com"
+        },
+        "roles": [
+          {
+            "name": "manfred developer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "backend developer"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Payvision",
           "URL": "https://www.payvision.com"
         },
@@ -81,70 +104,41 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Manfred",
-          "URL": "https://www.getmanfred.com"
-        },
-        "roles": [
-          {
-            "name": "manfred developer",
-            "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "backend developer"
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
       {
-        "type": "proBono",
-        "details": { 
+        "details": {
           "name": "project name",
           "description": "desc",
           "URL": "https://www.stanford.edu/"
-      },
-      "roles": [
-        {
-          "name": "Developer",
-          "startDate": "2019-06-20",
-          "finishDate": "2022-02-14",
-          "competences": [
-            {
-              "type": "practice",
-              "name": "JAVA"
-            }
-          ]
-        }
-      ]
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-06-20",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-02-14"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
       {
-        "type": "post",
         "details": {
           "name": "Project Management Institute",
           "description": "description",
           "URL": "https://www.oxford.edu/"
         },
+        "type": "post",
         "tags": [
           "cooking"
-        ],
-        "relatedCompetences": [
-          {
-            "type": "technology",
-            "name": "Excel"
-          }
         ]
       }
     ]
@@ -152,12 +146,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Japonés",
-        "level": "Limited working proficiency"
-      },
-      {
         "name": "Hebreo",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Japonés",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -166,12 +160,42 @@
           "name": "React",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified ScrumMaster",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "Stanford University",
+          "description": "adadasds",
+          "URL": "https://www.stanford.edu/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          }
+        ]
       },
       {
-        "skill": {
-          "name": "Objective-C",
-          "type": "technology"
-        }
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Software Engineering",
+        "startDate": "2021-02-01",
+        "institution": {
+          "name": "Stanford University",
+          "description": "adadasds",
+          "URL": "https://www.stanford.edu/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Dropwizard",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
@@ -186,42 +210,6 @@
           "name": "Trabajo en equipo",
           "type": "practice"
         }
-      }
-    ],
-    "studies": [
-      {
-        "name": "Certified ScrumMaster",
-        "studyType": "certification",
-        "linkedCompetences": [
-          {
-            "type": "technology",
-            "name": "Express"
-          }
-        ],
-        "startDate": "2021-01-01",
-        "institution": {
-          "name": "Stanford University",
-          "description": "adadasds",
-          "URL": "https://www.stanford.edu/"
-        },
-        "degreeAchieved": true
-      },
-      {
-        "name": "Software Engineering",
-        "studyType": "selfTraining",
-        "linkedCompetences": [
-          {
-            "type": "technology",
-            "name": "Dropwizard"
-          }
-        ],
-        "startDate": "2021-02-01",
-        "institution": {
-          "name": "Stanford University",
-          "description": "adadasds",
-          "URL": "https://www.stanford.edu/"
-        },
-        "degreeAchieved": true
       }
     ]
   },
@@ -265,12 +253,9 @@
   "manfredSpecificData": {
     "desiredJobDescription": "desiredJobDescription",
     "goodPractices": "variaditas",
-    "mainStackTechs": [
+    "projects": [
       {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
+        "name": "project name"
       }
     ]
   }

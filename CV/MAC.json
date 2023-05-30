@@ -166,6 +166,12 @@
           "name": "React",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
       }
     ],
     "softSkills": [
@@ -258,6 +264,14 @@
   },
   "manfredSpecificData": {
     "desiredJobDescription": "desiredJobDescription",
-    "goodPractices": "variaditas"
+    "goodPractices": "variaditas",
+    "mainStackTechs": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ]
   }
 }

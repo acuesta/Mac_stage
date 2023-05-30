@@ -131,5 +131,8 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "goodPractices": "variaditas"
   }
 }

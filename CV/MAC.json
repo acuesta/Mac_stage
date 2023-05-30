@@ -86,8 +86,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Árabe",
+        "name": "Japonés",
         "level": "Limited working proficiency"
+      },
+      {
+        "name": "Hebreo",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [

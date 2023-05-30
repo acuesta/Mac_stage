@@ -163,6 +163,12 @@
       },
       {
         "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }

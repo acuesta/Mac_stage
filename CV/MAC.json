@@ -181,6 +181,42 @@
           "type": "practice"
         }
       }
+    ],
+    "studies": [
+      {
+        "name": "Certified ScrumMaster",
+        "studyType": "certification",
+        "linkedCompetences": [
+          {
+            "type": "technology",
+            "name": "Express"
+          }
+        ],
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "Stanford University",
+          "description": "adadasds",
+          "URL": "https://www.stanford.edu/"
+        },
+        "degreeAchieved": true
+      },
+      {
+        "name": "Software Engineering",
+        "studyType": "selfTraining",
+        "linkedCompetences": [
+          {
+            "type": "technology",
+            "name": "Dropwizard"
+          }
+        ],
+        "startDate": "2021-02-01",
+        "institution": {
+          "name": "Stanford University",
+          "description": "adadasds",
+          "URL": "https://www.stanford.edu/"
+        },
+        "degreeAchieved": true
+      }
     ]
   },
   "careerPreferences": {

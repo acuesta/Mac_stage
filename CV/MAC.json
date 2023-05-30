@@ -21,6 +21,16 @@
         "municipality": "Prellezo"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Second computer",
+        "fact": "Commodore"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Olvetti"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "other",
@@ -33,17 +43,17 @@
       {
         "type": "other",
         "URL": "https://github.com/acuesta_2"
-      }
-    ],
-    "interestingFacts": [
+      },
       {
-      "topic":"First computer",
-      "fact": "Olvetti"
-    },
-    {
-      "topic":"Second computer",
-      "fact": "Commodore"
-    }
+        "type": "other",
+        "URL": "https://www.github.com",
+        "description": "other"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.twitter.com",
+        "description": "other"
+      }
     ]
   },
   "experience": {
@@ -74,6 +84,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Árabe",
+        "level": "Limited working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -85,27 +101,17 @@
     "softSkills": [
       {
         "skill": {
-        "name": "Trabajo en equipo",
-        "type": "practice"
-        }  
-    },
-    {
-      "skill": {
-      "name": "Pensamiento analítico",
-      "type": "practice"
-      }  
-    }
-    ],
-    "languages": [
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
       {
-      "name": "ES",
-      "level": "Native or bilingual proficiency"
-    },
-    {
-      "name": "FR",
-      "level": "Full professional proficiency"
-    }
-  ]
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
   },
   "careerPreferences": {
     "contact": {
@@ -113,14 +119,6 @@
         {
           "URL": "https://www.linkedin.com/in/alcuvi_2",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://www.github.com",
-          "type": "other"
-        },
-        {
-          "URL": "https://www.twitter.com",
-          "type": "other"
         }
       ],
       "contactMails": [
@@ -153,7 +151,7 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
-    "goodPractices": "variaditas",
-    "desiredJobDescription": "desiredJobDescription"
+    "desiredJobDescription": "desiredJobDescription",
+    "goodPractices": "variaditas"
   }
 }

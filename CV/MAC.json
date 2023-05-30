@@ -5,24 +5,6 @@
     "MACVersion": "0.3"
   },
   "aboutMe": {
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL":  "https://www.github.com"
-      },
-        {
-        "type": "twitter",
-        "URL":  "https://www.twitter.com"
-      },
-      {
-        "type": "website",
-        "URL":  "https://www.website.com"
-      },
-      {
-        "type": "other",
-        "URL":  "https://www.other.com"
-      }
-    ],
     "profile": {
       "name": "Amparo",
       "surnames": "Salinas Torres",
@@ -38,7 +20,21 @@
         "region": "Cantabria",
         "municipality": "Prellezo"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.website.com"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.other.com"
+      },
+      {
+        "type": "other",
+        "URL": "https://github.com/acuesta_2"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -68,12 +64,19 @@
     ]
   },
   "knowledge": {
-    "softSkills": [],
     "hardSkills": [
       {
         "skill": {
           "name": "React",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
         }
       }
     ]
@@ -86,7 +89,11 @@
           "type": "linkedin"
         },
         {
-          "URL": "https://github.com/acuesta_2",
+          "URL": "https://www.github.com",
+          "type": "other"
+        },
+        {
+          "URL": "https://www.twitter.com",
           "type": "other"
         }
       ],

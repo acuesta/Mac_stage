@@ -58,7 +58,53 @@
   },
   "experience": {
     "jobs": [
-      
+      {
+        "organization": {
+          "name": "Payvision",
+          "URL": "https://www.payvision.com"
+        },
+        "roles": [
+          {
+            "name": "manfred developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-02-14",
+            "challenges": [
+              {
+                "description": "node backend developer"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "URL": "https://www.getmanfred.com"
+        },
+        "roles": [
+          {
+            "name": "manfred developer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "backend developer"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

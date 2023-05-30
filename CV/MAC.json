@@ -34,7 +34,15 @@
         "type": "other",
         "URL": "https://github.com/acuesta_2"
       }
-    ]
+    ],
+    "interestingFacts": [{
+      "topic":"First computer",
+      "fact": "Olvetti"
+    },
+    {
+      "topic":"Second computer",
+      "fact": "Commodore"
+    }]
   },
   "experience": {
     "jobs": [

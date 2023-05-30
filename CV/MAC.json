@@ -105,6 +105,29 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "type": "proBono",
+        "details": { 
+          "name": "project name",
+          "description": "desc",
+          "URL": "https://www.stanford.edu/"
+      },
+      "roles": [
+        {
+          "name": "Developer",
+          "startDate": "2019-06-20",
+          "finishDate": "2022-02-14",
+          "competences": [
+            {
+              "type": "practice",
+              "name": "JAVA"
+            }
+          ]
+        }
+      ]
+      }
     ]
   },
   "knowledge": {

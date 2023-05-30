@@ -54,6 +54,14 @@
         "URL": "https://www.twitter.com",
         "description": "other"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "video recommended",
+        "authors": [{"title": "title", "name": "Tatiana", "surnames": "Vlaovic-Sorensen"}],
+        "type": "video",
+        "URL": "htpps://www.recomendation.com"
+      }
     ]
   },
   "experience": {

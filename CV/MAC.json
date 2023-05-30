@@ -157,6 +157,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -251,6 +257,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "desiredJobDescription",
     "goodPractices": "variaditas",
     "projects": [

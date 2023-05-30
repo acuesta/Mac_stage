@@ -58,9 +58,7 @@
     "recommendations": [
       {
         "title": "video recommended",
-        "authors": [{"title": "title", "name": "Tatiana", "surnames": "Vlaovic-Sorensen"}],
-        "type": "video",
-        "URL": "htpps://www.recomendation.com"
+        "type": "web"
       }
     ]
   },

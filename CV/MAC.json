@@ -75,10 +75,16 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Adaptabilidad al cambio",
-          "type": "practice"
-        }
-      }
+        "name": "Trabajo en equipo",
+        "type": "practice"
+        }  
+    },
+    {
+      "skill": {
+      "name": "Pensamiento analítico",
+      "type": "practice"
+      }  
+    }
     ]
   },
   "careerPreferences": {

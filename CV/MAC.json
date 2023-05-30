@@ -128,6 +128,25 @@
         }
       ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "type": "post",
+        "details": {
+          "name": "Project Management Institute",
+          "description": "description",
+          "URL": "https://www.oxford.edu/"
+        },
+        "tags": [
+          "cooking"
+        ],
+        "relatedCompetences": [
+          {
+            "type": "technology",
+            "name": "Excel"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

@@ -157,25 +157,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
           "type": "technology"
         }
       }

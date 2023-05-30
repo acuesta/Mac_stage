@@ -95,7 +95,17 @@
       "type": "practice"
       }  
     }
-    ]
+    ],
+    "languages": [
+      {
+      "name": "ES",
+      "level": "Native or bilingual proficiency"
+    },
+    {
+      "name": "FR",
+      "level": "Full professional proficiency"
+    }
+  ]
   },
   "careerPreferences": {
     "contact": {

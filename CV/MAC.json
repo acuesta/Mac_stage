@@ -5,6 +5,24 @@
     "MACVersion": "0.3"
   },
   "aboutMe": {
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL":  "https://www.github.com"
+      },
+        {
+        "type": "twitter",
+        "URL":  "https://www.twitter.com"
+      },
+      {
+        "type": "website",
+        "URL":  "https://www.website.com"
+      },
+      {
+        "type": "other",
+        "URL":  "https://www.other.com"
+      }
+    ],
     "profile": {
       "name": "Alvaro",
       "surnames": "Cuesta Viñolo",
@@ -63,11 +81,11 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/alcuvi",
+          "URL": "https://www.linkedin.com/in/alcuvi_2",
           "type": "linkedin"
         },
         {
-          "URL": "https://github.com/acuesta",
+          "URL": "https://github.com/acuesta_2",
           "type": "other"
         }
       ],

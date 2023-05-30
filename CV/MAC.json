@@ -35,14 +35,16 @@
         "URL": "https://github.com/acuesta_2"
       }
     ],
-    "interestingFacts": [{
+    "interestingFacts": [
+      {
       "topic":"First computer",
       "fact": "Olvetti"
     },
     {
       "topic":"Second computer",
       "fact": "Commodore"
-    }]
+    }
+    ]
   },
   "experience": {
     "jobs": [
@@ -124,23 +126,24 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "roxygen2",
           "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "Cobol",
+          "name": "Firebase",
           "type": "technology"
         }
       ],
       "preferredRoles": [
-        "Mobile Developer"
+        "Frontend Developer"
       ]
     },
     "status": "notAvailable"
   },
   "manfredSpecificData": {
-    "goodPractices": "variaditas"
+    "goodPractices": "variaditas",
+    "desiredJobDescription": "desiredJobDescription"
   }
 }

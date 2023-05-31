@@ -60,7 +60,7 @@
         "title": "other recommendations",
         "authors": [{"title": "title", "name": "Tatiana", "surnames": "Vlaovic-Sorensen"}],
         "type": "reading",
-        "URL": "htpps://www.reco.com"
+        "URL": "httpss://www.reco.com"
       },
       {
         "title": "video recommended",

@@ -22,207 +22,38 @@
       }
     },
     "interestingFacts": [
-      {
-        "topic": "Second computer",
-        "fact": "Commodore"
-      },
-      {
-        "topic": "First computer",
-        "fact": "Olvetti"
-      }
+    
     ],
     "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://www.website.com"
-      },
-      {
-        "type": "other",
-        "URL": "https://www.other.com"
-      },
-      {
-        "type": "other",
-        "URL": "https://github.com/acuesta_2"
-      },
-      {
-        "type": "other",
-        "URL": "https://www.github.com",
-        "description": "other"
-      },
-      {
-        "type": "other",
-        "URL": "https://www.twitter.com",
-        "description": "other"
-      }
+      
     ],
     "recommendations": [
-      {
-        "title": "other recommendations",
-        "authors": [{"title": "title", "name": "Tatiana", "surnames": "Vlaovic-Sorensen"}],
-        "type": "reading",
-        "URL": "https://www.reco.com"
-      },
-      {
-        "title": "video recommended",
-        "type": "web"
-      }
+    
     ]
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "Manfred",
-          "URL": "https://www.getmanfred.com"
-        },
-        "roles": [
-          {
-            "name": "manfred developer",
-            "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "backend developer"
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Payvision",
-          "URL": "https://www.payvision.com"
-        },
-        "roles": [
-          {
-            "name": "manfred developer",
-            "startDate": "2021-01-01",
-            "finishDate": "2022-02-14",
-            "challenges": [
-              {
-                "description": "node backend developer"
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
+      
     ],
     "projects": [
-      {
-        "details": {
-          "name": "project name",
-          "description": "desc",
-          "URL": "https://www.stanford.edu/"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-06-20",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-02-14"
-          }
-        ]
-      }
+     
     ],
     "publicArtifacts": [
-      {
-        "details": {
-          "name": "Project Management Institute",
-          "description": "description",
-          "URL": "https://www.oxford.edu/"
-        },
-        "type": "post",
-        "tags": [
-          "cooking"
-        ]
-      }
+     
     ]
   },
   "knowledge": {
     "languages": [
-      {
-        "name": "Hebreo",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Japonés",
-        "level": "Limited working proficiency"
-      }
+   
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      }
+     
     ],
     "studies": [
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Certified ScrumMaster",
-        "startDate": "2021-01-01",
-        "institution": {
-          "name": "Stanford University",
-          "description": "adadasds",
-          "URL": "https://www.stanford.edu/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Express",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "selfTraining",
-        "degreeAchieved": false,
-        "name": "Software Engineering",
-        "startDate": "2021-02-01",
-        "institution": {
-          "name": "Stanford University",
-          "description": "adadasds",
-          "URL": "https://www.stanford.edu/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Dropwizard",
-            "type": "technology"
-          }
-        ]
-      }
+    
     ],
     "softSkills": [
-      {
-        "skill": {
-          "name": "Pensamiento analítico",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trabajo en equipo",
-          "type": "practice"
-        }
-      }
+      
     ]
   },
   "careerPreferences": {
@@ -244,31 +75,15 @@
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "roxygen2",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "Firebase",
-          "type": "technology"
-        }
+      
       ],
       "preferredRoles": [
-        "Frontend Developer"
       ]
     },
     "status": "openToOffers"
   },
   "manfredSpecificData": {
-    "mainStackTechs": [
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      }
-    ],
+   
     "desiredJobDescription": "desiredJobDescription",
     "goodPractices": "variaditas",
     "projects": [

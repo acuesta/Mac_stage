@@ -16,14 +16,7 @@
     "recommendations": [
       {
         "title": "prueba1",
-        "type": "other",
-        "authors": [
-          {
-            "name": "yo",
-            "surnames": "mismo",
-            "title": "Author"
-          }
-        ]
+        "type": "other"
       }
     ]
   },

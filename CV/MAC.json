@@ -6,18 +6,17 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Álvaro",
-      "surnames": "Cuesta Viñolo",
-      "title": "title one",
-      "description": "",
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
-      }
+      "name": "Name",
+      "surnames": "Surnames",
+      "title": "title one"
     }
   },
   "careerPreferences": {
-    "status": "searchingActively",
-    "preferences": {
-    }
+    "contact": {
+      "contactMails": [
+        "alvaro.cuesta@getmanfred.com"
+      ]
+    },
+    "status": "notAvailable"
   }
 }

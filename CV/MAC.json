@@ -16,5 +16,8 @@
     }
   },
   "careerPreferences": {
+    "status": "searchingActively",
+    "preferences": {
+    }
   }
 }

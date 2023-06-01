@@ -12,7 +12,13 @@
       "location": {
         "notes": "Autocompleted using Google Maps API (id: )"
       }
-    }
+    },
+    "recommendations": [
+      {
+        "title": "prueba1",
+        "type": "other"
+      }
+    ]
   },
   "experience": {
     "jobs": [

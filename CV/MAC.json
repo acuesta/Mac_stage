@@ -16,7 +16,14 @@
     "recommendations": [
       {
         "title": "prueba1",
-        "type": "other"
+        "type": "other",
+        "authors": [
+          {
+            "name": "prueba",
+            "surnames": "prueba",
+            "title": "Author"
+          }
+        ]
       }
     ]
   },

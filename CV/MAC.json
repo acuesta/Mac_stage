@@ -8,7 +8,7 @@
     "profile": {
       "name": "Álvaro",
       "surnames": "Cuesta Viñolo",
-      "title": "",
+      "title": "title one",
       "description": "",
       "location": {
         "notes": "Autocompleted using Google Maps API"

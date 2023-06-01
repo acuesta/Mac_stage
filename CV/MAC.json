@@ -157,7 +157,10 @@
   },
   "knowledge": {
     "languages": [
-    
+      {
+        "name": "Japonés",
+        "level": "Limited working proficiency"
+      }
     ],
     "hardSkills": [
       {

@@ -8,8 +8,39 @@
     "profile": {
       "name": "Name",
       "surnames": "Surnames",
-      "title": "Title"
+      "title": "Title",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: )"
+      }
     }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "organizacion",
+          "URL": "https://pruebas.com"
+        },
+        "roles": [
+          {
+            "name": "posición",
+            "startDate": "2022-01-01",
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "descripcion"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "careerPreferences": {
     "contact": {

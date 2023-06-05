@@ -37,10 +37,6 @@
       {
         "type": "other",
         "URL": "https://stage.getmanfred.com/en/portal/v2/contact"
-      },
-      {
-        "type": "other",
-        "URL": "https://stage.getmanfred.com/en/portal/v2/contact"
       }
     ],
     "interestingFacts": [
@@ -63,8 +59,7 @@
             "surnames": "Autor",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "afsafsfs",
@@ -75,8 +70,7 @@
             "surnames": "",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "saf",

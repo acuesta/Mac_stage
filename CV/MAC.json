@@ -6,24 +6,89 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Name",
-      "surnames": "Surnames",
-      "title": "Title",
+      "name": "Zoë Rodríguezh GIT",
+      "surnames": "Castañuele GIT",
+      "title": "# Sobre mí  ¡Hola! Soy un **Node Developer** con 4 años de experiencia en el desarrollo de aplicaciones web y móviles. Durante mi carrera profesional he trabajado en diferentes proyectos de software, desde pequeñas startups hasta grandes empresas, lo que me ha brindado la oportunidad de adquirir experiencia en diferentes áreas y enfoques del desarrollo de software.",
+      "description": "# Sobre mí\n\n¡Hola! Soy un **Node Developer** con 4 años de experiencia en el desarrollo de aplicaciones web y móviles. Durante mi carrera profesional he trabajado en diferentes proyectos de software, desde pequeñas startups hasta grandes empresas, lo que me ha brindado la oportunidad de adquirir experiencia en diferentes áreas y enfoques del desarrollo de software.\n\n## Experiencias profesionales significativas\n\nAlgunas de mis experiencias profesionales significativas incluyen:\n\n- Trabajar en el desarrollo de una aplicación de seguimiento de entrenamiento para un equipo de deportes de élite, que incluyó la integración con diferentes dispositivos de seguimiento de actividad y la creación de un panel de control personalizado para los entrenadores.\n- Ser parte del equipo de desarrollo de una plataforma de eCommerce que procesa millones de transacciones al mes, lo que me permitió adquirir experiencia en escalabilidad y rendimiento del software.\n- Colaborar en la creación de una aplicación de entrega de comida a domicilio que utiliza algoritmos de geolocalización para optimizar la ruta de entrega y garantizar la calidad del servicio.\n\n## Aptitudes principales\n\nMis principales aptitudes como Node Developer son:\n\n- **Node.js:** tengo experiencia en el desarrollo de aplicaciones backend utilizando Node.js, así como en la integración con bases de datos y APIs externas.\n- **React:** he trabajado con React para el desarrollo de interfaces de usuario en aplicaciones web y móviles.\n- **Git:** tengo experiencia en el uso de Git para el control de versiones y colaboración en proyectos de software.\n\n## Actitud ante retos y problemas\n\nMe considero una persona con una actitud proactiva ante retos y problemas. Disfruto enfrentando nuevos desafíos y aprendiendo cosas nuevas. Ante un problema, trato de analizarlo en profundidad y buscar soluciones creativas y efectivas. Además, creo que la comunicación es clave en cualquier proyecto, por lo que siempre trato de mantener una comunicación clara y constante con mi equipo de trabajo y clientes. \n",
+      "avatar": {
+        "alt": "craiyon_155925_Logo_for_ceritification_of_figma.png",
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/24/e1bf0e30-7a48-4ea7-a2bc-4e9344883d45_craiyon_155925_logo_.png"
+      },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: )"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/getmanfred/asgard"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/dbonillaf"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/1234567/helena_b"
+      },
+      {
+        "type": "other",
+        "URL": "https://stage.getmanfred.com/en/portal/v2/contact"
+      },
+      {
+        "type": "other",
+        "URL": "https://stage.getmanfred.com/en/portal/v2/contact"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Vainilla ",
+        "fact": "# Buenas prácticas de desarrollo de software\n\nAquí te presento algunas de las buenas prácticas que sigo al desarrollar software:\n\n- **Configurabilidad y entendimiento**: me gusta hacer código y sistemas que sean fácilmente configurables y entendibles, para esto, creo que la documentación y los comentarios en el código son muy importantes, sobre todo la documentación sobre el mismo.\n\n- **Tests automatizados**: los tests automatizados sobre el código son una manera de certificar que el código funciona y que funciona como debe, y, también es importante de cara a un potencial cliente para poder certificar el nivel de calidad del código.\n\n- **Versionamiento del código**: el versionamiento del código es importante para mantener un registro de los cambios realizados en el mismo, facilitar la colaboración con otros desarrolladores y asegurar la estabilidad del software.\n\n- **Mantenimiento del código**: el mantenimiento del código es importante para asegurar que el software se mantenga funcional y actualizado a medida que cambian las necesidades del negocio y la tecnología.\n\n> Siempre trato de seguir estas buenas prácticas en mis proyectos de software para garantizar la calidad y la escalabilidad del mismo.\n"
+      },
+      {
+        "topic": "LELELE",
+        "fact": "hsfdfbdshgbdh"
+      }
+    ],
     "recommendations": [
       {
-        "title": "prueba1",
+        "title": "TEST 2",
         "type": "other",
         "authors": [
           {
-            "name": "prueba",
+            "name": "Autor",
+            "surnames": "Autor",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      },
+      {
+        "title": "afsafsfs",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "",
             "surnames": "",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
+      },
+      {
+        "title": "saf",
+        "type": "other",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": "saf"
       }
     ]
   },
@@ -31,25 +96,488 @@
     "jobs": [
       {
         "organization": {
-          "name": "organizacion",
-          "URL": "https://pruebas.com"
+          "name": "Croquetalandia",
+          "image": {
+            "alt": "3012022707_Steampunk_factory_created_by_minions_from_Gru.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/24/303033c9-cacf-450c-948b-5e50b9d34371_3012022707_steampunk.png"
+          }
         },
         "roles": [
           {
-            "name": "posición",
-            "startDate": "2022-01-01",
-            "finishDate": "2023-03-01",
+            "name": "Backend Developer part2",
+            "startDate": "2000-06-01",
             "challenges": [
               {
-                "description": "descripcion"
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "asfasfasf",
+          "image": {
+            "alt": "3174924945_Bob_from_minions__steampunk_factory.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/24/a4148d42-c77b-49b7-974a-5cd8cb1e0af9_3174924945_bob_from_.png"
+          },
+          "URL": "https://getmanfred.com/blog"
+        },
+        "roles": [
+          {
+            "name": "fsaasasfsaf",
+            "startDate": "1950-02-01",
+            "challenges": [
+              {
+                "description": "fasassa"
               }
             ],
             "competences": [
               {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
                 "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": ".htaccess",
+                "type": "technology"
+              },
+              {
+                "name": "3D Studio Max",
+                "type": "technology"
+              },
+              {
+                "name": "ADA",
+                "type": "technology"
+              },
+              {
+                "name": "ADO.net",
+                "type": "technology"
+              },
+              {
+                "name": "Abap",
+                "type": "technology"
+              },
+              {
+                "name": "Abstract",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveCampaign",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Adabas",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe After Effects",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Audition",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe CC",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Creative Suite",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Dreamweaver",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe InDesign",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Launch",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Lightroom",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Premiere Pro",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Suit",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Target",
+                "type": "technology"
+              },
+              {
+                "name": "Ahrefs",
+                "type": "technology"
+              },
+              {
+                "name": "Zookeeper",
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Example Company updated",
+          "image": {
+            "alt": "3935409871_Post-apocalyptic minion riding a horse, with ruste_xl-beta-v2-2-2.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/24/a88c143c-2e46-4ea9-a91d-5bf8f656cb33_3935409871_post-apoc.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Example Backend updated",
+            "startDate": "2022-10-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Lorem ipsum updated"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "TEST PROJECT",
+          "description": "",
+          "image": {
+            "alt": "nemo-disney-1623827286.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/24/3621e952-f5fe-4e96-af21-99663d20a642_nemo-disney-16238272.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2000-03-01",
+            "competences": [
+              {
+                "name": "ADA",
+                "type": "technology"
+              },
+              {
+                "name": "Abap",
+                "type": "technology"
+              },
+              {
+                "name": "Abstract",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveCampaign",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Adabas",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Project 2",
+          "description": "Ut ut volutpat odio. Curabitur mattis felis at ipsum egestas tempus. Sed fermentum tellus eget ornare iaculis. Nullam felis leo, venenatis a turpis a, faucibus egestas augue. Etiam aliquam velit at faucibus suscipit. Praesent tempor tortor id pulvinar lobortis. Praesent tincidunt bibendum aliquam. Nam aliquam augue id leo hendrerit, ut blandit elit porttitor. Pellentesque diam nulla, tincidunt eu convallis ac, dictum in purus.\n\n",
+          "URL": "https://www.atlassian.com/es/software/jira"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2000-08-01",
+            "finishDate": "2001-06-01",
+            "competences": [
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Fastlane",
+                "type": "technology"
+              },
+              {
+                "name": "Feathersjs",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "fssasffsa",
+          "description": ""
+        },
+        "type": "post",
+        "publishingDate": "2023-02-01",
+        "tags": [
+          "category 2"
+        ]
+      },
+      {
+        "details": {
+          "name": "highlight to test",
+          "description": "",
+          "URL": "http://www.getmanfred.com",
+          "image": {
+            "alt": "1689800582_Minions_in_Cyberpunk_2077.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/24/4234f93d-3fba-432a-bbd9-84a158827d68_1689800582_minions_i.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "details": {
+          "name": "saf",
+          "description": ""
+        },
+        "type": "talk",
+        "publishingDate": "1950-03-01",
+        "tags": [
+          "yuyuyu"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Bulgarian",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "German",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Hebrew",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "apply",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "promise",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "playframework",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "asfsfas",
+        "startDate": "2020-03-01",
+        "institution": {
+          "name": "ffssfdf",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "TEST",
+        "startDate": "1950-07-01",
+        "institution": {
+          "name": "Chuck norries",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor non metus in bibendum. Nam faucibus elementum purus, vitae aliquet nunc vehicula at. Nulla sed nibh maximus tellus sodales tempor. In commodo at risus in varius. Suspendisse tincidunt convallis pulvinar. Quisque maximus iaculis nulla, ultrices scelerisque mauris ullamcorper non. Nulla facilisi. Nulla pellentesque magna in odio iaculis, vel ullamcorper tellus dapibus. Phasellus ipsum enim, consequat vulputate libero vel, ultrices volutpat urna. Aenean vitae neque eget enim consequat consectetur sed vel lectus."
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "fdfsdfsdf",
+        "startDate": "2000-05-01",
+        "finishDate": "2000-10-01",
+        "institution": {
+          "name": "fdfdsf",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "fsdfsdfsdfd",
+        "startDate": "2000-01-01",
+        "finishDate": "2020-02-01",
+        "institution": {
+          "name": "fdfds",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "fsdfdfd",
+        "startDate": "1950-03-01",
+        "finishDate": "2000-06-01",
+        "institution": {
+          "name": "fdsfd",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": ".htaccess",
+            "type": "technology"
+          },
+          {
+            "name": "3D Studio Max",
+            "type": "technology"
+          },
+          {
+            "name": "ADA",
+            "type": "technology"
+          },
+          {
+            "name": "ADO.net",
+            "type": "technology"
+          },
+          {
+            "name": "Abap",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "ActiveCampaign",
+            "type": "technology"
+          },
+          {
+            "name": "ActiveMQ",
+            "type": "technology"
+          },
+          {
+            "name": "Adabas",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe After Effects",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Analytics",
+            "type": "technology"
           }
         ]
       }
@@ -57,10 +585,53 @@
   },
   "careerPreferences": {
     "contact": {
-      "contactMails": [
-        "alvaro.cuesta@getmanfred.com"
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/dbonillaf"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/1234567/helena_b"
+        }
       ]
     },
-    "status": "notAvailable"
+    "preferences": {
+      "preferredRoles": [
+        "Account Executive",
+        "Accounting & Financial Planning",
+        "Accounts & Payroll",
+        "Administration",
+        "Backend Developer",
+        "Brand & Creative Marketing",
+        "Brand Design",
+        "VP of Product"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "apply",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "promise",
+        "type": "technology"
+      },
+      {
+        "name": "playframework",
+        "type": "technology"
+      }
+    ]
   }
 }

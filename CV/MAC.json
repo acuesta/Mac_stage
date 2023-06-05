@@ -66,8 +66,8 @@
         "type": "reading",
         "authors": [
           {
-            "name": "",
-            "surnames": "",
+            "name": "Wenceslao",
+            "surnames": "Tamillo",
             "title": "Author"
           }
         ]
@@ -75,13 +75,6 @@
       {
         "title": "saf",
         "type": "other",
-        "authors": [
-          {
-            "name": "",
-            "surnames": "",
-            "title": "Author"
-          }
-        ],
         "summary": "saf"
       }
     ]

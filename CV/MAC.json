@@ -9,12 +9,25 @@
       "name": "Prueba",
       "surnames": "Ivan Vuelta",
       "title": "Senior software engineer",
-      "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects.\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design."
+      "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects.\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: )"
+      }
     },
     "relevantLinks": [
       {
         "type": "other",
         "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
+      },
+      {
+        "type": "other",
+        "URL": "https://github.com/ivancea/",
+        "description": "other"
+      },
+      {
+        "type": "other",
+        "URL": "https://twitter.com/ivancea96",
+        "description": "other"
       }
     ]
   },
@@ -357,6 +370,26 @@
     "projects": [
       {
         "details": {
+          "name": "BOE parser",
+          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
+          "URL": "https://github.com/ivancea/boe-auctions"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "ImasiEngine",
           "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
           "URL": "https://github.com/imasiprojects/ImasiEngine"
@@ -440,30 +473,6 @@
       },
       {
         "details": {
-          "name": "MTG Rules (Android)",
-          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
-          "URL": "https://github.com/ivancea/MTGRules_Android"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-06-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Auto-Stock list",
           "description": "Stocks listing app to keep track of the stock of items, and predict when the items should be re-stocked.",
           "URL": "https://github.com/ivancea/autostocklist"
@@ -492,18 +501,22 @@
       },
       {
         "details": {
-          "name": "BOE parser",
-          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
-          "URL": "https://github.com/ivancea/boe-auctions"
+          "name": "MTG Rules (Android)",
+          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
+          "URL": "https://github.com/ivancea/MTGRules_Android"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-06-01",
+            "startDate": "2020-06-01",
             "competences": [
               {
-                "name": "C#",
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
                 "type": "technology"
               }
             ]
@@ -539,16 +552,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "HR",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "AZ",
-        "level": "Professional working proficiency"
-      },
-      {
         "name": "EN",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "HR",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
@@ -664,14 +673,6 @@
         {
           "URL": "https://www.linkedin.com/in/ivancea/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://github.com/ivancea/",
-          "type": "other"
-        },
-        {
-          "URL": "https://twitter.com/ivancea96",
-          "type": "other"
         }
       ],
       "contactMails": [

@@ -539,11 +539,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Alemán",
+        "name": "AZ",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "DE",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Inglés",
+        "name": "EN",
         "level": "Native or bilingual proficiency"
       }
     ],

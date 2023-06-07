@@ -552,12 +552,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "EN",
-        "level": "Native or bilingual proficiency"
+        "name": "CZ",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "HR",
-        "level": "Full professional proficiency"
+        "name": "EN",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [

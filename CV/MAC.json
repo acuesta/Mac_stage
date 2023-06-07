@@ -9,10 +9,7 @@
       "name": "Prueba",
       "surnames": "Ivan Vuelta",
       "title": "Senior software engineer",
-      "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects.\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design.",
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: )"
-      }
+      "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects.\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design."
     },
     "relevantLinks": [
       {
@@ -21,13 +18,11 @@
       },
       {
         "type": "other",
-        "URL": "https://github.com/ivancea/",
-        "description": "other"
+        "URL": "https://github.com/ivancea/"
       },
       {
         "type": "other",
-        "URL": "https://twitter.com/ivancea96",
-        "description": "other"
+        "URL": "https://twitter.com/ivancea96"
       }
     ]
   },
@@ -662,6 +657,12 @@
       {
         "skill": {
           "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
           "type": "practice"
         }
       }

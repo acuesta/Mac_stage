@@ -9,7 +9,11 @@
       "name": "Prueba",
       "surnames": "Ivan Vuelta",
       "title": "Senior software engineer",
-      "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects.\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design."
+      "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects.\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design.",
+      "avatar": {
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/09/05/b38d27e9-ba2d-4464-b99c-a789e729be23_0ed8ce54-5531-4474-8.jpg",
+        "alt": "0ed8ce54-5531-4474-8277-c3ca3f52ae0b_79d97603-6fe7-4fe1-9.jpg"
+      }
     },
     "relevantLinks": [
       {
@@ -410,6 +414,31 @@
       },
       {
         "details": {
+          "name": "MTG Rules (UWP)",
+          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nDiscontinued after the end of life of Windows Phone.",
+          "URL": "https://github.com/ivancea/MTGRules_UWP"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-08-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2018-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "MTG Rules (UWP and Android)",
           "description": "Xamarin app (UWP and Android) to list and search over Magic: The Gathering rules. Published in the Windows store and in Google Play. This was made from scratch from the UWP-only app, after the Windows Phone end of life announcment.\n\nDiscontinued with the creation of a pure Android solution.",
           "URL": "https://github.com/ivancea/MTGRules_Xamarin"
@@ -438,31 +467,6 @@
               }
             ],
             "finishDate": "2020-11-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "MTG Rules (UWP)",
-          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nDiscontinued after the end of life of Windows Phone.",
-          "URL": "https://github.com/ivancea/MTGRules_UWP"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-08-01",
-            "competences": [
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2018-09-01"
           }
         ]
       },

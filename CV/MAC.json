@@ -14,7 +14,13 @@
         "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/09/05/b38d27e9-ba2d-4464-b99c-a789e729be23_0ed8ce54-5531-4474-8.jpg",
         "alt": "0ed8ce54-5531-4474-8277-c3ca3f52ae0b_79d97603-6fe7-4fe1-9.jpg"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ivancea/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -347,6 +353,12 @@
       {
         "skill": {
           "name": "Apache Tomcat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },

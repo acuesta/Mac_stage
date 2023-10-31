@@ -444,9 +444,7 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
-        "Software Architect",
-        "Tech Lead"
+        "Backend Developer"
       ]
     },
     "status": "notAvailable"

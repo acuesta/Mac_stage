@@ -386,6 +386,12 @@
       ],
       "contactMails": [
         "alvaro.cuesta@getmanfred.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "637814192",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {

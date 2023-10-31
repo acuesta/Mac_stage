@@ -414,6 +414,7 @@
         "type": "technology"
       }
     ],
+    "desiredJobDescription": "producto",
     "projects": [
       {
         "name": "Auto-Stock list"

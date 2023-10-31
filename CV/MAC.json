@@ -345,6 +345,10 @@
   "knowledge": {
     "languages": [
       {
+        "name": "EN",
+        "level": "Native or bilingual proficiency"
+      },
+      {
         "name": "ES",
         "level": "Native or bilingual proficiency"
       }

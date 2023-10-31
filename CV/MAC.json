@@ -402,7 +402,8 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "Data Engineer"
       ]
     },
     "status": "notAvailable"

@@ -11,8 +11,8 @@
       "title": "Software Developer",
       "description": "Hello! I’m Oscar Sanchez and since I was a little I loved technology, play with it, see how it works and I was fascinated about developers and hackers so meanwhile I was study I was reading, watching and trying stuff from internet.\nNow i have created web apps, APIs, small client apps, a lot of PoCs! And hacked a few things ;)\nSo what’s next ? a challenge!? Yeah for sure! \n\nExperienced Software Engineer, skilled in technology, ethical-hacking and C#. Strong engineering professional with a full-stack background and a lot of stories to tell about technology!",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/860dccf8-9ae9-4643-85e9-173ef9a77b5b_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/22/860dccf8-9ae9-4643-85e9-173ef9a77b5b_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/2db71b3e-6af3-429e-9d61-1c686559f838_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/22/2db71b3e-6af3-429e-9d61-1c686559f838_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -29,6 +29,170 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/bfca995e-fec2-489a-81b4-a859048faa0f_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/bfca995e-fec2-489a-81b4-a859048faa0f_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cloud District",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/3db26bec-7d93-4630-adb0-d4cdc35b90b6_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/3db26bec-7d93-4630-adb0-d4cdc35b90b6_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2020-11-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "My passion to deliver beautiful digital products drove me to CloudDistrict, in order to help local businesses conceptualize and build their digital product. \n\nWe successfully set up an AWS scalable solution to process and serve invoices for 5M users, using NodeJS (Lambdas), PostgreSQL, and AWS API Gateway.\n\nLeading projects as a team tech leader, focusing the team on delivering value to the clients.\n\nStandardize internal working workflows."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "POWEREXPLOSIVE S.L.",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/cd4f6deb-e2bf-44da-b278-96e671607931_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/cd4f6deb-e2bf-44da-b278-96e671607931_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-10-31",
+            "challenges": [
+              {
+                "description": "I wanted to settle up for a while and my gym was looking for a personal development to improve repetitive tasks with software solutions.\n\nTaking the ownership of the entire development and making decisions based on the needs was the challenge I was looking for 😁."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Worldpackers",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/c5b93593-5ced-4e65-8d98-6030afcb624f_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/c5b93593-5ced-4e65-8d98-6030afcb624f_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Volunteer",
+            "startDate": "2019-09-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Traveling around in Italy I felt in love with Venice and Work in a Hostel where I learn a lot of human Relationships and empathy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Greenfinch Technology Ltd",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/d61338b6-65f1-4003-aa01-2eb4f2f2faa7_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/d61338b6-65f1-4003-aa01-2eb4f2f2faa7_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "We developed Mobile apps for local business in Ireland, taking requirements from clients and delivering beautiful apps."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "42 Silicon Valley",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/c1fc91fe-56cc-4897-80cd-0afe6e9bb973_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/c1fc91fe-56cc-4897-80cd-0afe6e9bb973_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "42 Sillicon Valley",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
+              {
+                "description": "A Hackathon for a 4 weeks in California!? Yeah! i'm totally in! I was in the March piscine where you have your teammates, your computer and a lot of hours to do all the intense and infinite exercises in C that 42 throw it to you. \nTeamwork, fun and loves to technology needed =)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Startup Weekend",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/46b0e446-dbb2-42fe-8b5f-9717ec6f22e2_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/46b0e446-dbb2-42fe-8b5f-9717ec6f22e2_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Volunteer",
+            "startDate": "2017-11-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "What about to try to create a Startup in just 48 hours? Keep saying, try! and enjoy failing! Thats Startup Weekend about and its definitely its a life experience everyone should give a try, it doesnt matter who you are the important part is your opinnion its different and thats the key!\n\nAfter trying in March 2017 i decited to help in the making of and was huge fun! Working with the SW Team and trying to make the event posible was amazing experience."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ElevenPaths",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/22/ea662a67-b0a7-47db-b4b6-991a128e0af3_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/22/ea662a67-b0a7-47db-b4b6-991a128e0af3_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2013-04-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "2013 - 2016: Faast\nWe develop a Software as a Service (SaaS) of 24x7 Pentesting Service to detect threats before attackers do.\nI was implementing OSINT plugins and hacking techniques using C#.\nLearning the bases of design patterns and dealing with MongoDB.\n\n\n2016 - 2018: SealSign\nA biometric solution to securely sign documents.\nI was refactoring the style as a FrontEnd developer in ASP.Net and worked as a DevOps with Jenkins-Vagrant to automate all deployments and tasks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

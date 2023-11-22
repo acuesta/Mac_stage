@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -183,26 +183,53 @@
       },
       {
         "details": {
-          "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
-          "URL": "https://github.com/imasiprojects/ImasiEngine"
+          "name": "Auto-Stock list",
+          "description": "Stocks listing app to keep track of the stock of items, and predict when the items should be re-stocked.",
+          "URL": "https://github.com/ivancea/autostocklist"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2013-06-01",
+            "startDate": "2021-05-01",
             "competences": [
               {
-                "name": "C++",
+                "name": "React",
                 "type": "technology"
               },
               {
-                "name": "OpenGL",
+                "name": "Rust",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
-            ],
-            "finishDate": "2017-10-01"
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (Android)",
+          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
+          "URL": "https://github.com/ivancea/MTGRules_Android"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
@@ -266,53 +293,26 @@
       },
       {
         "details": {
-          "name": "Auto-Stock list",
-          "description": "Stocks listing app to keep track of the stock of items, and predict when the items should be re-stocked.",
-          "URL": "https://github.com/ivancea/autostocklist"
+          "name": "ImasiEngine",
+          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
+          "URL": "https://github.com/imasiprojects/ImasiEngine"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2021-05-01",
+            "startDate": "2013-06-01",
             "competences": [
               {
-                "name": "React",
+                "name": "C++",
                 "type": "technology"
               },
               {
-                "name": "Rust",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
+                "name": "OpenGL",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "MTG Rules (Android)",
-          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
-          "URL": "https://github.com/ivancea/MTGRules_Android"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-06-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2017-10-01"
           }
         ]
       }
@@ -346,10 +346,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -402,7 +404,7 @@
         }
       ],
       "preferredRoles": [
-        "Data Engineer"
+        "Backend Developer"
       ]
     },
     "status": "notAvailable"

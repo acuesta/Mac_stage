@@ -11,8 +11,8 @@
       "title": "Backend Developer en BeActtive",
       "description": "Hello, everyone ! 🤗\n\nI hope this post finds you all doing great. Today, I'd like to introduce myself and share my exciting journey into the world of web development. \n\nI'm Abraham Botica, and I've recently embarked on a thrilling adventure as a web developer. My passion for technology and creativity led me to dive into the realms of HTML5, JavaScript, CSS3, Node, React, and MySQL. These tools have empowered me to bring ideas to life on the digital canvas, crafting beautiful and interactive web experiences. As a lifelong learner, I'm constantly seeking new opportunities to expand my technical expertise. I firmly believe in the power of continuous learning and growth, and I'm eager to explore additional programming languages and frameworks to further enhance my skills.\n\nBeyond the technical aspects, I also understand the importance of soft skills in creating exceptional digital solutions. Collaboration, effective communication, adaptability, and problem-solving are just a few of the essential skills I strive to cultivate. I firmly believe that the combination of technical proficiency and strong interpersonal abilities is the key to delivering outstanding results and building meaningful professional relationships.\n\nI'm thrilled to be part of this vibrant community of professionals, and I'm eager to connect with like-minded individuals who share my enthusiasm for web development, technology, and personal growth. \n\nFeel free to reach out to me via LinkedIn or email at abrahambp1994@icloud.com. Let's connect or share knowledge.\n\nThank you for your time, and I look forward to connecting with you soon!\nBest regards, Abraham",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/ffaa5d23-c88e-404a-a421-1718f9096e33_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/23/ffaa5d23-c88e-404a-a421-1718f9096e33_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/b42e65d0-48cb-4afd-a000-b7c05405895b_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/23/b42e65d0-48cb-4afd-a000-b7c05405895b_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ8f21C60Lag0R_q11auhbf8Y)",
@@ -29,6 +29,142 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BeActtive",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/2d63ec8d-decc-44c0-ae85-f349ac5efcc0_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/23/2d63ec8d-decc-44c0-ae85-f349ac5efcc0_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2023-11-01",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HACK A BOSS",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/34f8f120-097e-4588-80bb-7d87fbc93033_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/23/34f8f120-097e-4588-80bb-7d87fbc93033_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Estudiante Full-stack Developer",
+            "startDate": "2022-09-01",
+            "finishDate": "2023-02-28",
+            "challenges": [
+              {
+                "description": "I have developed 3 team projects. The first project we worked on was a mini-game related to the classic hangman game. Months later, we worked with different teams on a project focused on the Back End part, where we were tasked with developing the Back End of an Instagram-like application. Finally, in the last and most important project, we had to complete the pending Front End part and thus finalize the InstaSimple application, as we called it. As the name suggests, it has a stylish minimalist and simplistic design."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Career Break"
+        },
+        "roles": [
+          {
+            "name": "Career transition",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Colegio Arcadia"
+        },
+        "roles": [
+          {
+            "name": "Teacher/tutor of Primary Education - Bilingual project",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "In this school, I served as a tutor/teacher for 11-year-old students in 5th grade. Initially, I was hired as a substitute for a paternity leave, and once that contract ended, I was given another contract for a maternity leave in the same class.\n\nIn this role, I was responsible for communicating with families, attending parent-teacher meetings, and presenting the corresponding class evaluations as the assigned tutor. Additionally, I taught the subjects assigned to me as part of the school's bilingual project. This project involved teaching English, natural science, music, and arts.\n\nFurthermore, since this school placed a strong emphasis on emotional education, I conducted personal development and emotional education sessions. During these sessions, I guided students in boosting their self-esteem, improving teamwork skills, and enhancing their authenticity as human beings.\n\nFrom my perspective, these sessions are crucial for the future development of each student's life."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Amazon",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/5eb86aa3-d768-40f2-a8ec-727c408e7127_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/23/5eb86aa3-d768-40f2-a8ec-727c408e7127_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Warehouse Worker",
+            "startDate": "2020-10-01",
+            "finishDate": "2020-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Supermartxe World Tour",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/1915834b-dc51-4bb5-8cbf-ece77d9b1945_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/23/1915834b-dc51-4bb5-8cbf-ece77d9b1945_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "RR.PP",
+            "startDate": "2018-06-01",
+            "finishDate": "2018-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SALVAMENT AQUATIC DE LES ILLES BALEARS SL",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/864de79c-8201-4d92-bf31-4293a154951d_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/23/864de79c-8201-4d92-bf31-4293a154951d_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lifeguard",
+            "startDate": "2018-04-01",
+            "finishDate": "2019-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Félix Ramiro",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/e45fbe74-5ebf-4ac5-8bf7-45cfe08a5dfe_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/23/e45fbe74-5ebf-4ac5-8bf7-45cfe08a5dfe_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Model",
+            "startDate": "2017-01-01",
+            "finishDate": "2019-01-01"
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

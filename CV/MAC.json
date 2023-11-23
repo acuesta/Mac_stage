@@ -6,19 +6,17 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Francisco",
-      "surnames": "Esparraga Alvarez",
-      "title": "Software Developer | HTML | CSS | SQL | JavaScript | Node | React",
-      "description": "Como Desarrollador Web Junior, mi formación en el BootCamp \"Hack a Boss\" me ha proporcionado una base sólida en programación web. Domino lenguajes como MySQL, Node JS, React y Angular, y actualmente, estoy estudiando Power BI para mejorar mis habilidades en análisis de datos y visualización.\nUno de mis proyectos destacados es el desarrollo de un portal de gestión veterinaria, donde aplico mis habilidades para crear soluciones web eficientes y amigables. Mi pasión por la programación me impulsa a seguir creciendo en este campo en constante evolución.\n\nMi experiencia previa en la gestión de restaurantes y en la hostelería de lujo me ha brindado habilidades valiosas en liderazgo y atención al cliente. Como Responsable de Sala en Rubion, lideré equipos y mantuve altos estándares de servicio. En el hotel Abbey Hotel, especializado en meetings empresariales y clientes VIP, perfeccioné mis habilidades en la atención personalizada y la resolución de problemas en un entorno de alta exigencia.\n\nTambién tengo experiencia en ventas tecnológicas, donde adquirí habilidades en identificación de oportunidades de venta y comunicación efectiva.\n\nCon una combinación única de experiencia en programación web y habilidades en liderazgo, atención al cliente y ventas, estoy emocionado por el futuro en el campo del desarrollo web y la tecnología, donde puedo aplicar estas capacidades de manera efectiva.",
+      "name": "Alvaro",
+      "surnames": "Cuesta Viñolo",
+      "title": "Software Engineer en Manfred",
+      "description": "Mi stack desde principios de 2018: NodeJS, Docker, Mongo, AWS, git...",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/58dddacb-0568-4b94-8186-ae767b30f564_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/23/58dddacb-0568-4b94-8186-ae767b30f564_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/2e1f0dc9-6137-4d27-9bd7-7fae4b005a36_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/23/2e1f0dc9-6137-4d27-9bd7-7fae4b005a36_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJkZUleyfGpBIRxJjPOT6ykSc)",
-        "country": "España",
-        "region": "Cataluña",
-        "municipality": "Corró d'Avall"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
     "relevantLinks": [
@@ -29,99 +27,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Telyco Selección",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/65742fc2-abdf-485d-b09c-aaffbca650d7_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/65742fc2-abdf-485d-b09c-aaffbca650d7_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Especialista en ventas",
-            "startDate": "2023-09-01",
-            "challenges": [
-              {
-                "description": "Actualmente como empleado de Telyco España desarrollo las siguientes acciones:\n\n🤝 Negociación de contratos y paquetes de telecomunicaciones.\n📞 Atención al cliente y resolución de dudas.\n💡 Pensamiento estratégico para ofrecer soluciones personalizadas.\n🗣 Representación de la empresa con comunicación efectiva.\n📊 Organización y control de stock de productos.\n📋 Uso de bases de datos de posibles clientes para prospectar y generar oportunidades de venta.\n👥 Trabajo en equipo para alcanzar objetivos personales y colectivos del puesto de venta."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "New Ondas System SL",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/15340d34-e4dc-4971-a7dd-22b14b23cd76_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/15340d34-e4dc-4971-a7dd-22b14b23cd76_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Vendedor",
-            "startDate": "2022-03-01",
-            "finishDate": "2023-01-31",
-            "challenges": [
-              {
-                "description": "Durante mi tiempo en New Ondas System SL, como vendedor, fortalecí mis habilidades en:\n\n🤝 Negociación de contratos y paquetes de telecomunicaciones.\n📞 Atención al cliente y resolución de dudas.\n💡 Pensamiento estratégico para ofrecer soluciones personalizadas.\n🗣 Representación de la empresa con comunicación efectiva.\n📊 Organización y control de stock de productos.\n📋 Uso de bases de datos de posibles clientes para prospectar y generar oportunidades de venta.\n👥 Trabajo en equipo para alcanzar objetivos personales y colectivos del puesto de venta."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "beonit",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/a3ff8b62-d2be-48f0-b832-8082ee6948ea_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/a3ff8b62-d2be-48f0-b832-8082ee6948ea_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Promotor de ventas",
-            "startDate": "2021-11-01",
-            "finishDate": "2022-03-31",
-            "challenges": [
-              {
-                "description": "Durante mi tiempo en beonit como promotor de ventas, representé a Oppo España y otras marcas tecnológicas en centros Mediamarkt y el Mobile World Center de Barcelona. Desarrollé habilidades en:\n\n📣 Promoción de ventas: Destacando y promoviendo productos de Oppo España y otras marcas tecnológicas en diferentes ubicaciones para captar la atención de los clientes y persuadirlos a realizar una compra.\n🛍 Atención al cliente: Brindando un excelente servicio al cliente al escuchar sus necesidades, responder preguntas y ofrecer orientación para ayudarles a tomar decisiones informadas.\n🚀 Conocimiento de productos: Adquiriendo un amplio conocimiento sobre los productos de Oppo y otras marcas tecnológicas, transmitiendo información precisa y convincente a los clientes, incluyendo características destacadas, especificaciones técnicas y ventajas competitivas.\n🎯 Orientación a resultados: Trabajando en un entorno orientado a objetivos, estableciendo metas claras, administrando eficientemente mi tiempo y esforzándome por alcanzar y superar los objetivos establecidos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Coctelería Kawama"
-        },
-        "roles": [
-          {
-            "name": "Jefe de turnos",
-            "startDate": "2020-02-01",
-            "finishDate": "2021-10-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "SAROBA PROMOCIONES HOSTELERAS SL"
-        },
-        "roles": [
-          {
-            "name": "Recepcionista",
-            "startDate": "2018-10-01",
-            "finishDate": "2020-02-28",
-            "challenges": [
-              {
-                "description": "Durante mi tiempo como recepcionista en el Abby Hotel, enfocado principalmente a meetings empresariales, tuve el privilegio de desempeñar un papel fundamental en la satisfacción de los huéspedes y el buen funcionamiento del establecimiento. Mis responsabilidades incluían:\n\n🌟 Excelencia en el servicio al cliente, brindando una atención amable y personalizada que superaba las expectativas de los huéspedes.\n🔑 Gestión de reservas y disponibilidad, utilizando sistemas informáticos especializados para coordinar de manera eficiente las reservas y satisfacer las necesidades de los huéspedes.\n🌃 Guardias nocturnas: Manteniendo la seguridad y la tranquilidad durante las horas nocturnas, atendiendo las necesidades de los huéspedes y respondiendo a situaciones imprevistas de manera efectiva.\n💼 Organización y planificación, manejando múltiples tareas y prioridades de manera eficaz, prestando atención a los detalles.\n🎯 Resolución de problemas, abordando rápidamente los problemas y quejas de los huéspedes, encontrando soluciones satisfactorias para garantizar su satisfacción.\n💡 Adaptabilidad y flexibilidad, ajustándome fácilmente a los cambios y situaciones imprevistas, mostrando una actitud proactiva.\n🌍 Conciencia cultural, trabajando con huéspedes de diversas culturas y nacionalidades, demostrando respeto y sensibilidad hacia la diversidad.\n\nDurante mi experiencia laboral en este hotel histórico en Gran Bretaña, tuve la oportunidad de mejorar significativamente mi nivel de inglés. La interacción diaria con huéspedes internacionales me permitió practicar y perfeccionar mis habilidades lingüísticas, lo que ha sido fundamental para mi desarrollo profesional.\n\nEsta experiencia me brindó una sólida base en la gestión de la recepción y la atención al cliente, así como la capacidad de trabajar en un entorno multicultural y adaptarme a las necesidades cambiantes de los huéspedes."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

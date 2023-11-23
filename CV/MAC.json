@@ -214,9 +214,19 @@
   "knowledge": {
     "languages": [
       {
+        "name": "CA",
+        "fullName": "Catalán",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "CA",
+        "fullName": "Valenciano",
+        "level": "Native or bilingual proficiency"
+      },
+      {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Professional working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",

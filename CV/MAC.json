@@ -11,8 +11,8 @@
       "title": "Software Developer | HTML | CSS | SQL | JavaScript | Node | React",
       "description": "Como Desarrollador Web Junior, mi formación en el BootCamp \"Hack a Boss\" me ha proporcionado una base sólida en programación web. Domino lenguajes como MySQL, Node JS, React y Angular, y actualmente, estoy estudiando Power BI para mejorar mis habilidades en análisis de datos y visualización.\nUno de mis proyectos destacados es el desarrollo de un portal de gestión veterinaria, donde aplico mis habilidades para crear soluciones web eficientes y amigables. Mi pasión por la programación me impulsa a seguir creciendo en este campo en constante evolución.\n\nMi experiencia previa en la gestión de restaurantes y en la hostelería de lujo me ha brindado habilidades valiosas en liderazgo y atención al cliente. Como Responsable de Sala en Rubion, lideré equipos y mantuve altos estándares de servicio. En el hotel Abbey Hotel, especializado en meetings empresariales y clientes VIP, perfeccioné mis habilidades en la atención personalizada y la resolución de problemas en un entorno de alta exigencia.\n\nTambién tengo experiencia en ventas tecnológicas, donde adquirí habilidades en identificación de oportunidades de venta y comunicación efectiva.\n\nCon una combinación única de experiencia en programación web y habilidades en liderazgo, atención al cliente y ventas, estoy emocionado por el futuro en el campo del desarrollo web y la tecnología, donde puedo aplicar estas capacidades de manera efectiva.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/e1d054a6-24e4-4a7c-b7c2-81b7873a51f8_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/23/e1d054a6-24e4-4a7c-b7c2-81b7873a51f8_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/20c28c6c-996d-4af7-87e7-0c12ebfd51db_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/23/20c28c6c-996d-4af7-87e7-0c12ebfd51db_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkZUleyfGpBIRxJjPOT6ykSc)",
@@ -214,9 +214,19 @@
   "knowledge": {
     "languages": [
       {
+        "name": "CA",
+        "fullName": "Catalán",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "CA",
+        "fullName": "Valenciano",
+        "level": "Native or bilingual proficiency"
+      },
+      {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Professional working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",

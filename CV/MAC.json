@@ -6,19 +6,18 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Abraham",
-      "surnames": "Botica Pantoja",
-      "title": "Backend Developer en BeActtive",
-      "description": "Hello, everyone ! 🤗\n\nI hope this post finds you all doing great. Today, I'd like to introduce myself and share my exciting journey into the world of web development. \n\nI'm Abraham Botica, and I've recently embarked on a thrilling adventure as a web developer. My passion for technology and creativity led me to dive into the realms of HTML5, JavaScript, CSS3, Node, React, and MySQL. These tools have empowered me to bring ideas to life on the digital canvas, crafting beautiful and interactive web experiences. As a lifelong learner, I'm constantly seeking new opportunities to expand my technical expertise. I firmly believe in the power of continuous learning and growth, and I'm eager to explore additional programming languages and frameworks to further enhance my skills.\n\nBeyond the technical aspects, I also understand the importance of soft skills in creating exceptional digital solutions. Collaboration, effective communication, adaptability, and problem-solving are just a few of the essential skills I strive to cultivate. I firmly believe that the combination of technical proficiency and strong interpersonal abilities is the key to delivering outstanding results and building meaningful professional relationships.\n\nI'm thrilled to be part of this vibrant community of professionals, and I'm eager to connect with like-minded individuals who share my enthusiasm for web development, technology, and personal growth. \n\nFeel free to reach out to me via LinkedIn or email at abrahambp1994@icloud.com. Let's connect or share knowledge.\n\nThank you for your time, and I look forward to connecting with you soon!\nBest regards, Abraham",
+      "name": "Jessica",
+      "surnames": "Freire Ponte",
+      "title": "Desarrollo web - Frontend Web Developer 👨‍💻 | HTML | CSS | JavaScript | React | MySQL | Typescript | Git | GitHub | API",
+      "description": "¡Hola a todos! Soy Jessica👋 \n\nTengo más de 3 años de experiencia en los sectores de diseño gráfico y creación de infografías 3D. Durante este tiempo, he tenido el privilegio de trabajar en una amplia variedad de proyectos, desde la conceptualización de logotipos y marcas corporativas para empresas, hasta el desarrollo de sitios web utilizando Wordpress y HTML, además de la creación de impresionantes representaciones en 3D de edificios para su posterior comercialización.\n\nMi pasión por el diseño y las imágenes en 3D me llevó a embarcarme en un ciclo superior en animación 3D, videojuegos y entornos interactivos en IMAXE E SON, A Coruña. A través de este programa, adquirí habilidades especializadas en la generación de espacios virtuales, diseño gráfico digital, desarrollo de aplicaciones y creación de sitios web. Durante este proceso, también cultivé habilidades como la empatía, el trabajo en equipo, la precisión y la organización, que considero fundamentales para ofrecer resultados sobresalientes en cada proyecto 💪.\n\nSiempre he buscado crecer profesionalmente y enfrentar nuevos retos, por eso me he propuesto dar un paso más allá y convertirme en un desarrollador web full stack a través del prestigioso bootcamp de programación web de Hack A Boss.\n\nEsta transición hacia el desarrollo web full stack me emociona enormemente, ya que me permitirá fusionar mis habilidades en diseño con la funcionalidad y la interactividad del mundo digital. Mi objetivo es crear experiencias web sorprendentes y atractivas que cautiven a los usuarios y superen sus expectativas.\n\nLa combinación de mi trayectoria en el diseño gráfico y las infografías 3D, junto con mi nueva formación en desarrollo web full stack, me brinda una perspectiva única y versátil para afrontar desafíos complejos y proyectos ambiciosos 👩‍💻.\n\nEstoy entusiasmada por seguir aprendiendo y enfrentar nuevos retos en el campo del desarrollo web. Aspiro a contribuir al crecimiento de proyectos innovadores y ser un agente de cambio en la industria tecnológica.\n\nAgradezco profundamente todas las oportunidades que me han llevado hasta aquí y estoy emocionada por descubrir lo que el futuro tiene reservado para mi carrera como desarrollador web full stack. ¡Estoy lista para enfrentar los desafíos y seguir evolucionando como profesional! 🕑📝",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/6cf28ff0-9d3a-4c95-9d83-cb2955c33f20_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/23/6cf28ff0-9d3a-4c95-9d83-cb2955c33f20_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/dfe1995a-5474-496c-8bb9-0fce9bc4e4cb_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/23/dfe1995a-5474-496c-8bb9-0fce9bc4e4cb_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ8f21C60Lag0R_q11auhbf8Y)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJaxUIiYZ8Lg0RtN8XKCdRuuU)",
         "country": "España",
-        "region": "Castilla-La Mancha",
-        "municipality": "Toledo"
+        "region": "Galicia"
       }
     },
     "relevantLinks": [
@@ -29,142 +28,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "BeActtive",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/8458a869-216f-44b1-8ae1-1ef3f7baef2c_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/8458a869-216f-44b1-8ae1-1ef3f7baef2c_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Back End Developer",
-            "startDate": "2023-11-01",
-            "challenges": [
-              {
-                "description": " helped me get this job"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "HACK A BOSS",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/89dbdfae-70dd-41e9-b349-5137114402f5_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/89dbdfae-70dd-41e9-b349-5137114402f5_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Estudiante Full-stack Developer",
-            "startDate": "2022-09-01",
-            "finishDate": "2023-02-28",
-            "challenges": [
-              {
-                "description": "I have developed 3 team projects. The first project we worked on was a mini-game related to the classic hangman game. Months later, we worked with different teams on a project focused on the Back End part, where we were tasked with developing the Back End of an Instagram-like application. Finally, in the last and most important project, we had to complete the pending Front End part and thus finalize the InstaSimple application, as we called it. As the name suggests, it has a stylish minimalist and simplistic design."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Career Break"
-        },
-        "roles": [
-          {
-            "name": "Career transition",
-            "startDate": "2022-06-01",
-            "finishDate": "2023-11-30"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Colegio Arcadia"
-        },
-        "roles": [
-          {
-            "name": "Teacher/tutor of Primary Education - Bilingual project",
-            "startDate": "2020-11-01",
-            "finishDate": "2021-06-30",
-            "challenges": [
-              {
-                "description": "In this school, I served as a tutor/teacher for 11-year-old students in 5th grade. Initially, I was hired as a substitute for a paternity leave, and once that contract ended, I was given another contract for a maternity leave in the same class.\n\nIn this role, I was responsible for communicating with families, attending parent-teacher meetings, and presenting the corresponding class evaluations as the assigned tutor. Additionally, I taught the subjects assigned to me as part of the school's bilingual project. This project involved teaching English, natural science, music, and arts.\n\nFurthermore, since this school placed a strong emphasis on emotional education, I conducted personal development and emotional education sessions. During these sessions, I guided students in boosting their self-esteem, improving teamwork skills, and enhancing their authenticity as human beings.\n\nFrom my perspective, these sessions are crucial for the future development of each student's life."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Amazon",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/0a1f1712-380c-4564-a523-e627628cdc4b_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/0a1f1712-380c-4564-a523-e627628cdc4b_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Warehouse Worker",
-            "startDate": "2020-10-01",
-            "finishDate": "2020-11-30"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Supermartxe World Tour",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/34d86321-4d93-4093-8fec-02106a09b33c_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/34d86321-4d93-4093-8fec-02106a09b33c_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "RR.PP",
-            "startDate": "2018-06-01",
-            "finishDate": "2018-10-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "SALVAMENT AQUATIC DE LES ILLES BALEARS SL",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/13c979ab-37aa-4ac6-9cb7-5e2ed661dcce_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/13c979ab-37aa-4ac6-9cb7-5e2ed661dcce_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Lifeguard",
-            "startDate": "2018-04-01",
-            "finishDate": "2019-08-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Félix Ramiro",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/23/e37de3b6-4807-4c8a-89ab-a8a28262c123_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/23/e37de3b6-4807-4c8a-89ab-a8a28262c123_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Model",
-            "startDate": "2017-01-01",
-            "finishDate": "2019-01-01"
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

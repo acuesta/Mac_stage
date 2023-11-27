@@ -11,8 +11,8 @@
       "title": "Front End · UX Engineer",
       "description": "Como diseñadora gráfica fui adaptando mi perfil al desarrollo web, trabajando como front end desde hace cinco años.\n\nDisfruto involucrándome en el análisis del producto y sus funcionalidades, del UX al desarrollo, siempre con una visión crítica y aportando gran atención a los detalles.\n\nTengo especial interés por los Sistemas de diseño, las BBPP, el código limpio y los debates sobre estándares dentro de un equipo de desarrollo.\n\nMi experiencia como freelance me ha enseñado a escuchar y comprender las necesidades de los diferentes equipos y proyectos.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/cc539d8a-7868-43f1-820a-8a2f1cd126d0_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/cc539d8a-7868-43f1-820a-8a2f1cd126d0_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/05d26b2a-247c-4891-b624-bc0221311c2d_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/05d26b2a-247c-4891-b624-bc0221311c2d_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -216,16 +216,11 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Professional working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "IT",
-        "fullName": "Italiano",
         "level": "Native or bilingual proficiency"
       }
     ],

@@ -29,6 +29,152 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Enreach ES",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/1e193e0a-b955-470c-8fcc-a7744d95b234_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/1e193e0a-b955-470c-8fcc-a7744d95b234_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technical Support Lead",
+            "startDate": "2022-09-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "bracketsLab",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/97dd2657-ca31-44cc-89e1-61ede6fc8e8e_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/97dd2657-ca31-44cc-89e1-61ede6fc8e8e_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2020-08-01",
+            "finishDate": "2022-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HUB Buildings",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/5112c445-30bd-40cc-a74f-e6c29c22b6ef_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/5112c445-30bd-40cc-a74f-e6c29c22b6ef_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2018-02-01",
+            "finishDate": "2020-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Masvoz",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4c2d11c4-d857-47be-bbd0-b19fba52d576_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/4c2d11c4-d857-47be-bbd0-b19fba52d576_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico senior de sistemas linux y VoIP",
+            "startDate": "2014-08-01",
+            "finishDate": "2018-02-28",
+            "challenges": [
+              {
+                "description": "Técnico senior ubicado en departamento IT de operador de Telefonía IP administrando el conjunto de la plataforma asegurando la alta disponibilidad.\nResolución de incidencias de tercer nivel, dando soporte para interconexiones con otros operadores VoIP y, puntualmente, cliente final.\nHomologación de dispositivos SIP y desarrollo de producto.\n\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INCIBE - Instituto Nacional de Ciberseguridad",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/762dd8a5-6b74-4597-9894-4ff7c310eff7_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/762dd8a5-6b74-4597-9894-4ff7c310eff7_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Prácticas pentesting",
+            "startDate": "2014-01-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Realización de las prácticas profesionalizadoras del Máster en seguridad en sistemas TIC. Durante estas prácticas se están realizando pruebas de penetración a diversos servidores en producción. Recolección de información. Explotación de vulnerabilidades. Postexplotación del sistema. Generación de informes. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VozTelecom",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a4b63c8a-5c06-4def-94d5-ba39156bf2d5_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/a4b63c8a-5c06-4def-94d5-ba39156bf2d5_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable departamento implantación sistemas VoIP",
+            "startDate": "2007-05-01",
+            "finishDate": "2014-08-31",
+            "challenges": [
+              {
+                "description": "Coordinación equipo formado por 6 técnicos especialistas en VoIP, así cómo de la certificación del canal de distribución. Realización de evaluaciones y formaciones de los mismos.\nAnálisis y resolución de incidencias surgidas en la plataforma y la posterior redacción de procedimientos y protocolos con el fin de minimizar el número de incidencias postventa. \nHomologación de dispositivos SIP y desarrollo de producto.\n\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Orama Systems"
+        },
+        "roles": [
+          {
+            "name": "Responsable departamento de sistemas",
+            "startDate": "2004-11-01",
+            "finishDate": "2007-05-31",
+            "challenges": [
+              {
+                "description": "Responsable técnico con cuatro persona a cargo. Mis funciones eran la de administrar los sistemas de la empresa, el desarrollo de proyectos en clientes finales, formación de partners nacionales, I+D, coordinación técnicos de campo y redacción de manuales y procedimientos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Al-pi Telecomunicaciones"
+        },
+        "roles": [
+          {
+            "name": "Administrativo técnico del CtiTI",
+            "startDate": "2003-12-01",
+            "finishDate": "2004-11-30",
+            "challenges": [
+              {
+                "description": "Funciones: Administrar a nivel de telecomunicaciones algunos de los departamentos gubernamentales de la Generalitat. Así como coordinar pequeñas instalaciones."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

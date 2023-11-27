@@ -6,19 +6,18 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Gustavo",
-      "surnames": "Mulet Fernández",
-      "title": "Software Developer | .NET Java Python @Quonversa",
-      "description": "Profesional con mentalidad emprendedora, he colaborado con empresas para desarrollar automatizaciones mediante el proceso de lenguaje natural o \"NLP\". Actualmente, trabajo en Quonversa como desarrollador de Chatbots mediante el uso de tecnologías como .NET o Dialogflow ES y CX.",
+      "name": "Rubén",
+      "surnames": "Sacristán Mor",
+      "title": "Desarrollador | HTML5 | CSS3 | Javascript | PHP | Laravel | Java | Springboot",
+      "description": "Actualmente estoy completando mis estudios de grado superior de DAW. También estoy trabajando en mis propios proyectos Frontend y Backend, que me encanta compartir con la comunidad de GitHub. Siempre estoy dispuesto a aprender cosas nuevas. Mi tiempo libre, lo disfruto practicando deporte, salir con mi familia y mantenerme al día con mis creadores favoritos de Twitch y Youtube.\n\n🖥️Tecnologías:\nJava, Junit5, Maven, Hibernate, Springboot, HTML5, CSS3, Bootstrap, JavaScript, PHP, Laravel.\n\n🛠️Herramientas:\nGit, Github.\n\n💪Skills:\n- Desarrollo Frontend & Backend\n- Iniciativa\n- Atención a los detalles\n- Enfoque lógico\n- Habilidad creativa",
       "avatar": {
         "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/83d31fd5-6e1c-4b74-b0aa-a815989f869b_linkedin-photo-362.linkedin-photo-362",
         "alt": "23/11/27/83d31fd5-6e1c-4b74-b0aa-a815989f869b_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJA7L7NSVjpBIR4BCkIeD6AAQ)",
         "country": "España",
-        "region": "Islas Baleares",
-        "municipality": "Palma"
+        "region": "Cataluña"
       }
     },
     "relevantLinks": [
@@ -29,49 +28,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "TravelgateX",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/ac258fee-bd50-4498-9e81-d48d7cb6ba97_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/ac258fee-bd50-4498-9e81-d48d7cb6ba97_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de software",
-            "startDate": "2023-01-01",
-            "finishDate": "2023-11-30",
-            "challenges": [
-              {
-                "description": "Dentro de Travelgate, contribuí al desarrollo y entrega de un chatbot personalizado para la empresa, así como a su implementación para proporcionar a nuestros clientes acceso a las estadísticas empresariales. También participé en el mantenimiento de integraciones dentro del equipo CORE de TGX, brindando soporte a los clientes que requerían asistencia. Utilizamos tecnologías como C# .NET 6 y GitLab para lograr estos objetivos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Quonversa",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4db3a57c-77b6-41ef-94aa-b782669d224d_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/4db3a57c-77b6-41ef-94aa-b782669d224d_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de software",
-            "startDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": "El motor de la automatización de procesos de Quonversa amplía las posibilidades de lo que puede ser resuelto sin intervención humana. El motor flexible de flujos de trabajo tiene la capacidad de incorporar múltiples soluciones externas mediante Integraciones. Como desarrollo personal he conseguido varios puntos:\n· Creación y mantenimiento de APIs REST, garantizando un flujo de datos e integración sin inconvenientes.\n· Gestión de despliegues, asegurando el funcionamiento eficiente de nuestras aplicaciones.\n· Procesamiento del Lenguaje Natural (NLP) para potenciar las capacidades de nuestros chatbots.\n· Diseño e implementación de flujos personalizados para cada chatbot, adaptándolos a su caso de uso específico.\n· Desarrollo de un chatbot para la industria hotelera, ofreciendo una experiencia de atención al cliente interactiva y automatizada.\n· Creación de un chatbot para información de vuelos, simplificando el proceso de reservas y consultas de vuelos."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

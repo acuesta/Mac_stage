@@ -6,19 +6,17 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Aldara",
-      "surnames": "González Rodríguez",
-      "title": "Facilities & People",
-      "description": "Hola! 👀\n\nGracias por interesarte en mi perfil y querer dedicarme unos minutos, aprovecharé para contarte un poquito más sobre mi! 👩🏽\n\nMi nombre es Aldara, y si te suena un pelín raro es porque es un nombre gallego. He vivido toda mi vida en Galicia 🌊 (a la que llevo siempre en mi corazón) excepto los 4 años de carrera, los cuales estuve estudiando en la Universidad de Salamanca. Me gradué en Psicología 🧠 porque desde que estaba en el instituto ya sabía que quería dedicarme a ayudar a las personas, y durante la carrera me di cuenta de que el área en el que me sentía más cómoda era el de los Recursos Humanos, lo que me llevó a matricularme en un Máster en Dirección y Gestión de Personas.\n\nEste máster me ha permitido sentar las bases de lo que es la gestión de las personas en una organización y, además, meter la cabeza en el mundo laboral, concretamente, en el sector IT, sobre el cual aprendo día a día gracias a los compañeros y compañeras que me rodean. Aunque aún me queda mucho que aprender, estoy segura de que mi lugar está en algún punto conectando el sector tecnológico con la gestión de personas y el reclutamiento IT 👩🏽‍💻\n\nActualmente intento aprender todo lo que puedo cada día, tanto sobre tecnología como sobre habilidades interpersonales, para poder aportar mi punto de vista, mi pasión por lo que hago y mi motivación para aprender dentro de las empresas que pertenecen a este inmenso sector.",
+      "name": "Alessio",
+      "surnames": "G.",
+      "title": "Securing and automating mission critical deployments",
+      "description": "I am a technically sophisticated and high-performance professional skilled at securing, defining, designing and implementing highly secure environments. Adept at co-ordinating with software developers, system operators and other multi-skilled IT teams to oversee code releases and governance.\nResponsible for global delivery of solutions focused on security\nI likes all aspect of security, from networking to RFID and Social engineering, \nwhen I'm not working on my duties I am probably busy rock climbing",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/5d6af7d3-aba1-4fc4-8726-aed88df8b149_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/5d6af7d3-aba1-4fc4-8726-aed88df8b149_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/581a2720-11ea-4f0e-9558-fb67c0fac697_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/581a2720-11ea-4f0e-9558-fb67c0fac697_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
-        "country": "España",
-        "region": "Galicia",
-        "municipality": "La Coruña"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
     "relevantLinks": [
@@ -29,104 +27,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "SNGULAR",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/5064bfa5-7683-4fdf-89d2-a136c161d1fd_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/5064bfa5-7683-4fdf-89d2-a136c161d1fd_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Office Manager",
-            "startDate": "2023-08-01",
-            "challenges": [
-              {
-                "description": "Skills: Administración · Selección de personal · Microsoft Office · Trabajo en equipo · Tecnología de la información · Administración de oficinas · Onboarding · Gestión de oficina · Entrevistas · Comunicación · Prevención de riesgos laborales"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Corunet by SNGULAR",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/b3b0a4a2-a8a2-433b-8c39-5bbedc3592ed_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/b3b0a4a2-a8a2-433b-8c39-5bbedc3592ed_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Office Manager",
-            "startDate": "2023-04-01",
-            "finishDate": "2023-08-31",
-            "challenges": [
-              {
-                "description": "Skills: Administración · Selección de personal · Microsoft Office · Trabajo en equipo · Tecnología de la información · Administración de oficinas · Entrevistas · Comunicación"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Corunet by SNGULAR",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/74eeb105-c62b-49a7-a895-6a3a270637bf_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/74eeb105-c62b-49a7-a895-6a3a270637bf_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Estudiante en prácticas de Máster",
-            "startDate": "2023-03-01",
-            "finishDate": "2023-04-30",
-            "challenges": [
-              {
-                "description": "Skills: Administración · Selección de personal · Microsoft Office · Trabajo en equipo"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Banco de Alimentos Rías Altas"
-        },
-        "roles": [
-          {
-            "name": "Voluntaria",
-            "startDate": "2022-12-01",
-            "finishDate": "2023-01-01",
-            "challenges": [
-              {
-                "description": "Participación como voluntaria en la gran recogida de alimentos de la campaña de Navidad en Coruña, a cargo del banco de alimentos Rías Altas. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Asociación de Alcohólicos Rehabilitados de Salamanca (ARSA)"
-        },
-        "roles": [
-          {
-            "name": "Estudiante en prácticas de Grado",
-            "startDate": "2022-03-01",
-            "finishDate": "2022-05-31",
-            "challenges": [
-              {
-                "description": "Skills: Administración · Microsoft Office · Seguimiento · Terapia social · Entrevistas"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

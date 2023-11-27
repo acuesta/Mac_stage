@@ -11,8 +11,8 @@
       "title": "Desarrollador de software",
       "description": "Me encanta resolver problemas, ayudar a otros y disfruto del trabajo en equipo.\n\nPOR FAVOR, CONTÁCTAME SOLO SI DE VERDAD CREES QUE TU OFERTA ENCAJA CON LO QUE ESTOY BUSCANDO. MÁS INFORMACIÓN A CONTINUACIÓN.\n\nEn este momento solo me interesan ofertas de compañías desarrollando su propio producto, que ofrezcan puestos 100% remoto y un horario flexible.\n\nEstoy especialmente interesado en puestos full stack y proyectos donde pueda aplicar DDD y arquitectura hexagonal, donde esté totalmente arraigado el testing, el uso de buenas prácticas, metodologías ágiles y el CI/CD.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/5c281b86-3743-422f-bfc9-8400fa34626d_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/5c281b86-3743-422f-bfc9-8400fa34626d_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a883cb86-36c8-4cf9-8afe-d072acaeaa97_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/a883cb86-36c8-4cf9-8afe-d072acaeaa97_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -29,6 +29,146 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Domestika",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/44c9f722-c6e5-482b-b349-84de5aef81a3_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/44c9f722-c6e5-482b-b349-84de5aef81a3_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "https://blog.davidmontesdeoca.es/el-de-mi-experiencia-en-domestika"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "instapack.es",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/656e1d78-7dd8-4e4d-bac7-1183e7faed27_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/656e1d78-7dd8-4e4d-bac7-1183e7faed27_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2020-03-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "Skills: Code Refactoring · Domain-Driven Design (DDD) · Microservices · Docker · 3rd Party Integrations · Swagger API · RuboCop · RSpec · Cascading Style Sheets (CSS) · Agile Methodologies · Software as a Service (SaaS) · Redux.js · Jest · SQL · REST APIs · HTML · Ruby · Ruby on Rails · Testing · Object-Oriented Programming (OOP) · Design Patterns · JavaScript · React.js · Git · JSON · SOLID Design Principles · PostgreSQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Neural.ONE",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/23792f4f-24e2-4a4a-a549-31da2c4354b5_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/23792f4f-24e2-4a4a-a549-31da2c4354b5_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2016-10-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "Skills: Code Refactoring · AWS S3 · AWS ECS · AWS EC2 · AWS Lambda · AWS CloudFront · AWS DynamoDB · Docker · Bash · Sidekiq · Extract, Transform, Load (ETL) · Test-Driven Development · Behavior-Driven Development (BDD) · RSpec · Cascading Style Sheets (CSS) · Software as a Service (SaaS) · SQL · HTML · Ruby · Ruby on Rails · Testing · Object-Oriented Programming (OOP) · Design Patterns · JavaScript · Python (Programming Language) · Git · JSON · SOLID Design Principles · PostgreSQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Requestic"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-01-31",
+            "challenges": [
+              {
+                "description": "Skills: Code Refactoring · Elasticsearch · Bash · RSpec · Cascading Style Sheets (CSS) · Software as a Service (SaaS) · SQL · HTML · Ruby · Ruby on Rails · Testing · Object-Oriented Programming (OOP) · Design Patterns · JavaScript · Git · PostgreSQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CiTEC"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2014-12-01",
+            "finishDate": "2015-07-31",
+            "challenges": [
+              {
+                "description": "Skills: Code Refactoring · RSpec · Cascading Style Sheets (CSS) · Software as a Service (SaaS) · SQL · HTML · Ruby · Ruby on Rails · Testing · Object-Oriented Programming (OOP) · Design Patterns · JavaScript · Git · JSON · PostgreSQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ComparaDentistas",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/9e30ccea-d881-4cd9-9f4f-eae1d918ee6f_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/9e30ccea-d881-4cd9-9f4f-eae1d918ee6f_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software y administrador de sistemas",
+            "startDate": "2012-06-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Code Refactoring · Sidekiq · Behavior-Driven Development (BDD) · RSpec · Cascading Style Sheets (CSS) · Agile Methodologies · Software as a Service (SaaS) · SQL · HTML · Ruby · Ruby on Rails · Testing · Object-Oriented Programming (OOP) · Design Patterns · JavaScript · Git · JSON · MySQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IT7",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4e891687-4d68-4e74-b9e1-f1675fcc09de_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/4e891687-4d68-4e74-b9e1-f1675fcc09de_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador junior de software",
+            "startDate": "2009-07-01",
+            "finishDate": "2011-07-31",
+            "challenges": [
+              {
+                "description": "Skills: 3rd Party Integrations · Cascading Style Sheets (CSS) · SQL · HTML · Ruby · Ruby on Rails · JavaScript · Git · MySQL"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

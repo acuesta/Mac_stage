@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Gerald",
-      "surnames": "Andrei Tamaşi",
-      "title": "Frontend Developer at Cloud Nine AB",
-      "description": "Happy guy based in Gijón, Spain.\nLove creativity, coffee and Web Development.\n\nDo. Or do not. There is no try - Master Yoda",
+      "name": "Aldara",
+      "surnames": "González Rodríguez",
+      "title": "Facilities & People",
+      "description": "Hola! 👀\n\nGracias por interesarte en mi perfil y querer dedicarme unos minutos, aprovecharé para contarte un poquito más sobre mi! 👩🏽\n\nMi nombre es Aldara, y si te suena un pelín raro es porque es un nombre gallego. He vivido toda mi vida en Galicia 🌊 (a la que llevo siempre en mi corazón) excepto los 4 años de carrera, los cuales estuve estudiando en la Universidad de Salamanca. Me gradué en Psicología 🧠 porque desde que estaba en el instituto ya sabía que quería dedicarme a ayudar a las personas, y durante la carrera me di cuenta de que el área en el que me sentía más cómoda era el de los Recursos Humanos, lo que me llevó a matricularme en un Máster en Dirección y Gestión de Personas.\n\nEste máster me ha permitido sentar las bases de lo que es la gestión de las personas en una organización y, además, meter la cabeza en el mundo laboral, concretamente, en el sector IT, sobre el cual aprendo día a día gracias a los compañeros y compañeras que me rodean. Aunque aún me queda mucho que aprender, estoy segura de que mi lugar está en algún punto conectando el sector tecnológico con la gestión de personas y el reclutamiento IT 👩🏽‍💻\n\nActualmente intento aprender todo lo que puedo cada día, tanto sobre tecnología como sobre habilidades interpersonales, para poder aportar mi punto de vista, mi pasión por lo que hago y mi motivación para aprender dentro de las empresas que pertenecen a este inmenso sector.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/af5444b1-30f5-4932-a6a5-eaeb8fc6f2bb_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/af5444b1-30f5-4932-a6a5-eaeb8fc6f2bb_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/d7693bb2-3bba-40dc-a70b-61ea44fc3706_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/d7693bb2-3bba-40dc-a70b-61ea44fc3706_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJv5T0y2Z8Ng0RNjWNBAfSBr0)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
-        "region": "Principado de Asturias",
-        "municipality": "Gijón"
+        "region": "Galicia",
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -29,137 +29,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Cloud Nine AB",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/67bd733b-40b4-4e98-b70e-c403660ac6cb_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/67bd733b-40b4-4e98-b70e-c403660ac6cb_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "Creating some amazing stuff together with our partners, mostly e-commerce sites in Next js, Typescript and SCSS modules.\n\nSome of our partners: Storyblok CMS, Vercel, Litium, Umbraco, Centra e-commerce, Klarna and NOVA Consulting Group"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Cleverpy",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/0d1e8f4b-9f67-4af8-a2b3-921c038f08c8_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/0d1e8f4b-9f67-4af8-a2b3-921c038f08c8_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Frontend",
-            "startDate": "2021-05-01",
-            "finishDate": "2022-01-31",
-            "challenges": [
-              {
-                "description": "Building international projects, mainly with React, Redux, Typescript, Scss and Openlayers. Helping with Web App Architecture Design and Tech Research."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GALA ENERGY WORKWEAR SL"
-        },
-        "roles": [
-          {
-            "name": "Administrativo / Atención al cliente / Asistente de ventas / Mantenimiento WEB",
-            "startDate": "2020-01-01",
-            "finishDate": "2020-07-31",
-            "challenges": [
-              {
-                "description": "Realizadas tareas de archivo, control de stock, atención al cliente y atención comercial. Además, mantenimiento de página web y diseño de material web y gráfico."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Freelance"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador web",
-            "startDate": "2019-01-01",
-            "challenges": [
-              {
-                "description": "Freelance developer, side-projects. Some of the techs used:\n- Frameworks: React, Next.js, Svelte (Sveltekit), Astro, Vue, Preact, Node.js.\n- CMS's: Strapi, Storyblok, Sanity, Contentful.\n- DB's: Mongo DB, PostreSQL --- Vercel Storage\n- Others: Vercel, Netlify, Openlayers(maps), Figma"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Ayuntamiento de Gijón",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/5721d502-f67f-40df-9aec-4a341c7b9f92_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/5721d502-f67f-40df-9aec-4a341c7b9f92_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Administrativo",
-            "startDate": "2018-03-01",
-            "finishDate": "2019-03-31",
-            "challenges": [
-              {
-                "description": "Administrativo del Ayuntamiento de Gijón, trabajando en la ALPEE, en el departamento de Orientación Laboral\n\nMantenimiento de bases de datos, atención al cliente, gestión documental, elaboración de informes, control de citas, programación de reuniones y diseño de material."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Jm2 Asesores S.L."
-        },
-        "roles": [
-          {
-            "name": "Administrative",
-            "startDate": "2016-09-01",
-            "finishDate": "2016-12-31",
-            "challenges": [
-              {
-                "description": "Contabilidad, atención al cliente, archivo, facturación, fiscalidad y administración de fincas. Lo más importante ha sido familiarizarme con el trabajo de oficina y el trabajo en equipo."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Freelance"
-        },
-        "roles": [
-          {
-            "name": "Guitar Teacher",
-            "startDate": "2012-01-01",
-            "finishDate": "2020-01-01",
-            "challenges": [
-              {
-                "description": "Comparto con la gente mi pasión por la música y la guitarra."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

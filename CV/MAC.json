@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Emanuel",
-      "surnames": "Fernandez",
-      "title": "CyberSecurity & Cloud | Software Engineer",
-      "description": "I have five years of experience in cybersecurity, risk analysis and data protection. My experience allowed me to deploy security solutions that significantly improved the security of the companies I worked with and minimised the risks of cyber attacks.\nAs a passionate cybersecurity professional, I am always updating my knowledge on the latest trends and techniques in the field. I collaborate with teams to ensure that security is a priority in all aspects of business. Throughout my career, I have achieved significant results, including VPN migrations, Firewall installation, and equipment migration to Datacenter.\nIn summary, as a cybersecurity specialist, I am committed to providing effective solutions to ensure that companies are protected against cyber attacks and other security risks.\n\n* Bilingual (Spanish and English)\n* Residency Status: Stamp 2 Irish Visa (Permitted to work in Ireland part time)\n* Currently based in Ireland",
+      "name": "David",
+      "surnames": "Montesdeoca",
+      "title": "Desarrollador de software",
+      "description": "Me encanta resolver problemas, ayudar a otros y disfruto del trabajo en equipo.\n\nPOR FAVOR, CONTÁCTAME SOLO SI DE VERDAD CREES QUE TU OFERTA ENCAJA CON LO QUE ESTOY BUSCANDO. MÁS INFORMACIÓN A CONTINUACIÓN.\n\nEn este momento solo me interesan ofertas de compañías desarrollando su propio producto, que ofrezcan puestos 100% remoto y un horario flexible.\n\nEstoy especialmente interesado en puestos full stack y proyectos donde pueda aplicar DDD y arquitectura hexagonal, donde esté totalmente arraigado el testing, el uso de buenas prácticas, metodologías ágiles y el CI/CD.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/d1b13404-3163-4f14-815f-0cc91d804355_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/d1b13404-3163-4f14-815f-0cc91d804355_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/8f7a8442-a498-49c8-8016-56f28e1913df_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/8f7a8442-a498-49c8-8016-56f28e1913df_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJL6wn6oAOZ0gRoHExl6nHAAo)",
-        "country": "Irlanda",
-        "region": "Dublín",
-        "municipality": "Dublín"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -29,66 +29,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Banco de la Provincia de Córdoba S.A.",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/8f6ed5fb-0dab-4036-b940-09c523a2d3e4_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/8f6ed5fb-0dab-4036-b940-09c523a2d3e4_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Security Analyst",
-            "startDate": "2019-02-01",
-            "challenges": [
-              {
-                "description": "In my role as a Security Analyst, I prioritise daily tasks which involve edge security, email security, antivirus, load balancers and secure browsing. I possess the ability to manage various cybersecurity tools, which includes Cisco ISE, ESA, Cognitive, WSA, ASA, FTD and Umbrella. I have experience using Citrix NetScaler, Dell/Quest Change Auditor, Dell/EMC Isilon, IBM QRadar (SIEM) and Symantec Endpoint Protection Manager."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "VoIP Group",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/2cf5cf43-42dd-4456-bced-767260bdcdbc_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/2cf5cf43-42dd-4456-bced-767260bdcdbc_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "System Administrator",
-            "startDate": "2018-05-01",
-            "finishDate": "2019-02-28",
-            "challenges": [
-              {
-                "description": "As a System Administrator, I have expertise in a wide range of tasks that focus on ensuring smooth server operations and optimal performance. My skills include:\n*Managing Linux and Windows servers to ensure their smooth operation and proper configuration.\n*Proficient in SIP, VoIP, and Radius analysis, debugging, error reporting, and scenario-based development, while providing exceptional customer support.\nProviding passive server on-call service to ensure continuous protection of critical systems.\nSkilled in migrating SQL Server databases (2003/2008/2012) to preserve data integrity and accessibility.\nUsing Zabbix for server monitoring to promptly detect and solve issues, thereby sustaining uptime and efficiency.\nSkilled in packet analysis using Wireshark on Windows to investigate and troubleshoot network issues.\nProficient in managing virtual machines using VMware ESXi to ensure optimum virtualization efficiency and resource utilization."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Plus"
-        },
-        "roles": [
-          {
-            "name": "Help Desk Support Specialist",
-            "startDate": "2015-07-01",
-            "finishDate": "2015-12-31",
-            "challenges": [
-              {
-                "description": "As a specialist in Hardware/Software Maintenance, I provide comprehensive support to ensure the smooth functioning of critical infrastructures and IT systems. I have expertise in the following areas:\n\n*Maintaining the Intranet to ensure its reliability and efficiency, which facilitates smooth communication and data sharing within the organization.\n*Having proficiency in installing and configuring various infrastructure equipment, such as cameras, modems, routers, switches, and servers, to establish robust IT infrastructures.\nProficient in deploying and configuring software systems on workstations to optimize their functionality and productivity.\nProviding timely and effective solutions to address issues and challenges faced by workstations, ensuring minimal downtime and seamless operations.\nDelivering comprehensive Helpdesk support at multiple organizational levels, assisting users with technical inquiries and efficiently resolving concerns.\nManaging user accounts and permissions skilfully through Active Directory, to ensure secure access to resources and data."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

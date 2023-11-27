@@ -11,8 +11,8 @@
       "title": "Leader Center Specialisten NTT Data",
       "description": "mi nombre es Jose Javier Perez Reyes, me diplome en 2007 en Ingenieria Tecnica en Informatica de Sistemas en Huelva, posteriormente realice un master de redes en Cisco y algo después un máster en programación en JAVA (J2EE), donde descubrí mi pasión por la programación y me empujo a lanzarme a .NET donde estuve un par de años desarrollando programas para algunas PYMES cercanas a mi pueblo. me encantaría poder seguir formándome y trabajando en esta plataforma .NET o JAVA, me gusta busca la forma mas optima de realizar un proceso o un algoritmo. Por todo esto busco alguna empresa a la que poder ayudar, con mi experiencia como programador, y me ayude a seguir creciendo como profesional.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/75a58bf1-a6f6-4fae-a355-d7284ee51883_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/75a58bf1-a6f6-4fae-a355-d7284ee51883_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/14b5b46c-1472-4627-96eb-1adf223512ae_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/14b5b46c-1472-4627-96eb-1adf223512ae_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJRcWdz7HZEQ0RD_Pxd01lycE)",
@@ -220,11 +220,6 @@
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "IT",
-        "fullName": "Italiano",
         "level": "Native or bilingual proficiency"
       }
     ],

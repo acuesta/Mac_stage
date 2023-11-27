@@ -6,18 +6,18 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Rubén",
-      "surnames": "Sacristán Mor",
-      "title": "Desarrollador | HTML5 | CSS3 | Javascript | PHP | Laravel | Java | Springboot",
-      "description": "Actualmente estoy completando mis estudios de grado superior de DAW. También estoy trabajando en mis propios proyectos Frontend y Backend, que me encanta compartir con la comunidad de GitHub. Siempre estoy dispuesto a aprender cosas nuevas. Mi tiempo libre, lo disfruto practicando deporte, salir con mi familia y mantenerme al día con mis creadores favoritos de Twitch y Youtube.\n\n🖥️Tecnologías:\nJava, Junit5, Maven, Hibernate, Springboot, HTML5, CSS3, Bootstrap, JavaScript, PHP, Laravel.\n\n🛠️Herramientas:\nGit, Github.\n\n💪Skills:\n- Desarrollo Frontend & Backend\n- Iniciativa\n- Atención a los detalles\n- Enfoque lógico\n- Habilidad creativa",
+      "name": "David",
+      "surnames": "A.",
+      "title": "1x.engineer | CTO | Professor | MS Computer Science",
+      "description": "Software Engineer | MS Computer Science | https://1x.engineer\n\nAs an experienced technology professional, I have been fortunate to build and lead teams that contribute to a company's growth. My technical expertise has allowed me to address complex challenges and implement innovative solutions in various programming languages, software architecture, and web and mobile application development, including managing complex systems and working with distributed teams across the globe.\n\nI strive to foster collaboration and innovation within teams, encouraging them to exceed expectations. My background as a professor and startup founder reflects my dedication to nurturing talent and creating an environment that supports growth and learning. Additionally, I possess strong communication skills that enable me to effectively collaborate with business and product teams, ensuring a seamless integration of technology and strategy.\n\nIn summary, my combination of technical capabilities, leadership skills, a human-centered approach, and experience in handling complex systems and coordinating with distributed teams worldwide, along with my ability to work closely with business and product stakeholders, has enabled me to make a meaningful impact on the teams and organizations I have had the opportunity to work with.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/83d31fd5-6e1c-4b74-b0aa-a815989f869b_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/83d31fd5-6e1c-4b74-b0aa-a815989f869b_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/afc212da-eff3-4b96-8d64-ce9cac92c2fc_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/afc212da-eff3-4b96-8d64-ce9cac92c2fc_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJA7L7NSVjpBIR4BCkIeD6AAQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
         "country": "España",
-        "region": "Cataluña"
+        "region": "Community of Madrid"
       }
     },
     "relevantLinks": [
@@ -28,66 +28,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Decathlon España",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/50d9f848-6bbb-480c-a571-dde730f77baa_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/50d9f848-6bbb-480c-a571-dde730f77baa_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Servicio Post Venta ",
-            "startDate": "2017-09-01",
-            "finishDate": "2023-02-28",
-            "challenges": [
-              {
-                "description": "Reparación de todo tipo de gamas de bicicletas, gestión servicio postventa."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Decathlon España",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a1a35e24-b4e6-4c66-852a-fd98cfd34606_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/a1a35e24-b4e6-4c66-852a-fd98cfd34606_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Operador de logística",
-            "startDate": "2008-09-01",
-            "finishDate": "2017-09-30"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Decathlon España",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/b1ad3038-51d1-4887-8787-d91811338ed0_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/b1ad3038-51d1-4887-8787-d91811338ed0_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Soporte informático",
-            "startDate": "2005-01-01",
-            "finishDate": "2017-05-31",
-            "challenges": [
-              {
-                "description": "Enlace informático, instalación de equipos, mantenimiento y soporte."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

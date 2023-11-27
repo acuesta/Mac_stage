@@ -11,8 +11,8 @@
       "title": "Frontend Developer at Cloud Nine AB",
       "description": "Happy guy based in Gijón, Spain.\nLove creativity, coffee and Web Development.\n\nDo. Or do not. There is no try - Master Yoda",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4c0ca375-1562-4522-bd11-94e57e6dcc50_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/4c0ca375-1562-4522-bd11-94e57e6dcc50_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/bec98ad7-16ac-4236-af09-8d75efeb86c5_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/bec98ad7-16ac-4236-af09-8d75efeb86c5_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJv5T0y2Z8Ng0RNjWNBAfSBr0)",
@@ -221,6 +221,11 @@
       {
         "name": "ES",
         "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "RO",
+        "fullName": "Rumano",
         "level": "Native or bilingual proficiency"
       }
     ],

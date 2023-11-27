@@ -214,24 +214,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "CA",
-        "fullName": "Catalán",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "CA",
-        "fullName": "Valenciano",
-        "level": "Native or bilingual proficiency"
-      },
-      {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Professional working proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Native or bilingual proficiency"
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [

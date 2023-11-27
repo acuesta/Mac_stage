@@ -11,8 +11,8 @@
       "title": "Leader Center Specialisten NTT Data",
       "description": "mi nombre es Jose Javier Perez Reyes, me diplome en 2007 en Ingenieria Tecnica en Informatica de Sistemas en Huelva, posteriormente realice un master de redes en Cisco y algo después un máster en programación en JAVA (J2EE), donde descubrí mi pasión por la programación y me empujo a lanzarme a .NET donde estuve un par de años desarrollando programas para algunas PYMES cercanas a mi pueblo. me encantaría poder seguir formándome y trabajando en esta plataforma .NET o JAVA, me gusta busca la forma mas optima de realizar un proceso o un algoritmo. Por todo esto busco alguna empresa a la que poder ayudar, con mi experiencia como programador, y me ayude a seguir creciendo como profesional.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/14b5b46c-1472-4627-96eb-1adf223512ae_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/14b5b46c-1472-4627-96eb-1adf223512ae_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/2c8c20ac-9436-42b1-bfa3-7f6d3529bbab_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/2c8c20ac-9436-42b1-bfa3-7f6d3529bbab_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJRcWdz7HZEQ0RD_Pxd01lycE)",
@@ -28,6 +28,209 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/2787911d-3481-473b-98c2-53ac6c6c5635_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/2787911d-3481-473b-98c2-53ac6c6c5635_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Leader Center Specialist",
+            "startDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "Trabajando con colas de rabbitMQ, bases de datos, transformaciones xslt, desorrollo de API’s REST en entornos C#.\n Como leader de un equipo en las que tenía 3 personas a cargo, organizando el trabajo en Jira y estimando las tareas y la capacidad del equipo durante el sprint bajo metodología AGILE,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ingenia",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/7481c734-7764-43d0-8fee-f232ad1875d8_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/7481c734-7764-43d0-8fee-f232ad1875d8_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista / Programador .NET",
+            "startDate": "2021-02-01",
+            "finishDate": "2022-08-31",
+            "challenges": [
+              {
+                "description": "He estado creando análisis de funcionales y desarrollando en .Net Core, Razor, Entity Framework, Automapper, JQuery, CSS,JS, Telerik. Creando toda la gestión de esta empresa “Acotral” encargada del transporte de mercancías, cuyo principal cliente es Mercadona."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aplitop",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4a454b57-d368-40e8-9a6e-d242934c3f2b_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/4a454b57-d368-40e8-9a6e-d242934c3f2b_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador WPF",
+            "startDate": "2019-10-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
+              {
+                "description": "Esta empresa se dedica a crear Software para topógrafos, he estado trabajando en un proyecto llamado “point cloud editor”, que realiza diversas operaciones de topografía con nubes de puntos.\n Realizando trabajos en WPF, diseñados en MVVM utilizando MVVMLight, con diversos frameworks visuales como mahapps Metro para dar un toque moderno, AvalonDock para poder trabajar con varias ventanas y moverlas a gusto. El proyecto tiene una parte visual en 3d en la que he tenido que adentrarme en este mundo por medio de OpenGL y sus shaders, para ello hemos utilizado un framework llamado “OpenTK” que integra las operaciones de openGL en c#. He realizado trabajos en c++ por usar librerías que solo funcionaban en este lenguaje y luego he tenido que crear wrappers para integrar esta funcionalidad a c#."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INDRA",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/e689fc0e-98a1-4c31-ab55-c380ccd9da99_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/e689fc0e-98a1-4c31-ab55-c380ccd9da99_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador informático",
+            "startDate": "2019-05-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "Realizando desarrollos internos para Endesa en diversos proyectos con tecnologías .net en MVC y Migraciones de proyectos de Silverlight a MVC, trabajos de backend con arquitectura DDD, Entity frameworks tanto con “code first” como “database first”, apoyado por fluent api para las relaciones entre entidades y apoyado por el patrón “repository” para obtener estos datos. Usualmente he utilizado Unity de Microsoft para realizar la inyección de dependencias especialmente en proyectos MVC, intento siempre tener un código limpio siguiendo los principios “S.O.L.I.D”, siempre usando LinQ con expresiones lamdas para colecciones de objetos y expresiones en sql para relaciones entre tablas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ingenia",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/05b4ffb3-b1ab-4c39-ac4b-60bcdcc01a5d_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/05b4ffb3-b1ab-4c39-ac4b-60bcdcc01a5d_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador sénior .NET",
+            "startDate": "2017-11-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "Realizando trabajos para grandes empresas con entity frameworks code first, web services en WCF y base de datos Oracle."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Servinform",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/bad18c3e-079e-46e7-a782-84cb113a730d_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/bad18c3e-079e-46e7-a782-84cb113a730d_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "programador .NET",
+            "startDate": "2016-05-01",
+            "finishDate": "2017-11-30",
+            "challenges": [
+              {
+                "description": "desarrollando programas en entornos .NET utilizando entityframework, NET frameworks, base de datos MySql, lectura y escritura de ficheros en formato excel, conocimientos en expresiones lambda y linq, etc..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LEC, Iluminación eficiente.",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/8487774a-c743-44f7-8e00-026ce862a35b_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/8487774a-c743-44f7-8e00-026ce862a35b_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniero informático",
+            "startDate": "2014-03-01",
+            "finishDate": "2016-05-31",
+            "challenges": [
+              {
+                "description": "mantenimiento de maquinas virtuales VMWare, reparacion de equipos, mantenimiento de redes cisco, desarrollo de aplicaciones en J2EE, modificaciones de la web de la empresa, telefonia VoIP, administrador del dominio windows server 2008 y resolviendo problemas informaticos de trabajadores de la empresa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance .NET"
+        },
+        "roles": [
+          {
+            "name": "programador .NET",
+            "startDate": "2011-01-01",
+            "finishDate": "2013-01-31",
+            "challenges": [
+              {
+                "description": "desarrollando aplicaciones para algunas pymes en cadiz y sevilla en .NET"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LEC S.L"
+        },
+        "roles": [
+          {
+            "name": "Programador .NET",
+            "startDate": "2010-06-01",
+            "finishDate": "2010-11-30",
+            "challenges": [
+              {
+                "description": "desarrollar software en .NET"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LEC, Iluminación eficiente.",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/f8448316-9743-48f9-a0c8-8123eb5dd9f3_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/f8448316-9743-48f9-a0c8-8123eb5dd9f3_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tecnico de Informatica",
+            "startDate": "2010-06-01",
+            "finishDate": "2010-11-30",
+            "challenges": [
+              {
+                "description": "mantenimiento de equipo de puesto de trabajso, mantenimiento de redes y equipo informatico, virtualizacion de maquinas VMware, control y mantenimiento del dominio de la empresa."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

@@ -28,6 +28,66 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Decathlon España",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/50d9f848-6bbb-480c-a571-dde730f77baa_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/50d9f848-6bbb-480c-a571-dde730f77baa_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Servicio Post Venta ",
+            "startDate": "2017-09-01",
+            "finishDate": "2023-02-28",
+            "challenges": [
+              {
+                "description": "Reparación de todo tipo de gamas de bicicletas, gestión servicio postventa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Decathlon España",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a1a35e24-b4e6-4c66-852a-fd98cfd34606_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/a1a35e24-b4e6-4c66-852a-fd98cfd34606_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operador de logística",
+            "startDate": "2008-09-01",
+            "finishDate": "2017-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Decathlon España",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/b1ad3038-51d1-4887-8787-d91811338ed0_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/b1ad3038-51d1-4887-8787-d91811338ed0_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Soporte informático",
+            "startDate": "2005-01-01",
+            "finishDate": "2017-05-31",
+            "challenges": [
+              {
+                "description": "Enlace informático, instalación de equipos, mantenimiento y soporte."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

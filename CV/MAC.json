@@ -11,8 +11,8 @@
       "title": "Solutions Architect",
       "description": "Jimmy is a Solutions Architect with a strong software engineering background. He posseses domain\nknowledge expertise in several industry sectors including Banking, Telecomunications and Ecommerce.\nProven experienced leading/managing decentralized teams accross multiple continents. Possesses\ndemonstrable knowledge of complete sales lyfecycle both for consulting projects and computer system\nproducts (Hardware + Software)",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/00282f4f-15e9-448f-8ee5-1760cc6ddf51_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/00282f4f-15e9-448f-8ee5-1760cc6ddf51_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a0e3aee2-e7c4-419c-af9c-fe18d02728d2_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/a0e3aee2-e7c4-419c-af9c-fe18d02728d2_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJA4UGSG_xNIgRNBuiWqEV-Y0)",
@@ -214,19 +214,9 @@
   "knowledge": {
     "languages": [
       {
-        "name": "CA",
-        "fullName": "Catalán",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "CA",
-        "fullName": "Valenciano",
-        "level": "Native or bilingual proficiency"
-      },
-      {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Professional working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",

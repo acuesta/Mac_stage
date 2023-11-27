@@ -6,18 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Julià",
-      "surnames": "Mestieri Ferrer",
-      "title": "eCommerce & marketing IT manager | Speaker | Agile leadership | ESADE Executive MBA candidate '24",
-      "description": "Apasionado por la tecnología, el Big Data, la innovación y los desafíos profesionales.\n\nMi estilo de liderazgo promueve el trabajo en equipo y la motivación a través de crear y compartir la visión.\n\nSoy una persona enérgica y motivada que se desenvuelve en entornos de crecimiento rápido haciendo trabajo orientado a resultados. Tengo una larga experiencia en gestionar y liderar proyectos de software en entornos internacionales. He trabajado para industrias de la salud, farmacéutica, proveedores de servicios en internet y marketing.\n\nCombino mi conocimiento técnico con un enfoque pragmático para transformar organizaciones aplicando los principios de agile.\n\nMi experticia esta principalmente en los ámbitos de la transformación digital, gobierno del dato, liderazgo de proyectos, gestión de producto, desarrollo de estrategias, innovación, Big Data, arquitecturas IT, gestión y entrega ágil y coaching.\n\nTambién tengo una larga experiencia de gestión organizacional en el entorno del voluntariado. He apoyado el crecimiento de varias organizaciones multiplicando los participantes hasta 30x a través de una visión clara y trabajo en equipo, creando una cultura abierta y sentimiento de pertinencia.\n\nComo profesional enérgico y orientado a resultados utilizo mi capacidad analítica y creativa para diseñar estrategias de gestión. Sé influir en el equipo para establecer buenas practicas de desarrollo tecnológico.\n\nTambién tengo experiencia en:\n\n• Posibilitar el cambio organizacional a través de empoderar a las personas.\n• Generar comunicación entre equipos de distintas disciplinas y áreas funcionales.\n• Optimización de procesos, estandarización y automatización.\n• Detectar nuevas oportunidades de negocio.\n• Implementar técnicas de Big Data y Advanced Analytics para Business Intelligence.\n• Planificar, ejecutar y gestionar múltiples proyectos importantes en paralelo, trabajando bajo presión.\n• Contratar talento técnico y retenerlo en la compañía.\n• Auditar, resumir y explicar la tecnología a personas de negocio no técnicas.\n• Entender las capacidades y limitaciones de distintos entornos técnicos tanto de paquetes de software como Open Source/FLOSS/Software libre.\n• Recolección de requerimientos funcionales, de seguridad, de integración, de rendimiento y de cualidad.\n• Determinar el ciclo de vida y soporte de una aplicación en producción, incluyendo políticas de backup, recuperación de desastres, rendimiento de los sistemas y gestión de evolutivos.\n\nSoy una persona positiva, curiosa, motivadora, conseguidora de resultados y experto en tecnología.",
+      "name": "Emanuel",
+      "surnames": "Fernandez",
+      "title": "CyberSecurity & Cloud | Software Engineer",
+      "description": "I have five years of experience in cybersecurity, risk analysis and data protection. My experience allowed me to deploy security solutions that significantly improved the security of the companies I worked with and minimised the risks of cyber attacks.\nAs a passionate cybersecurity professional, I am always updating my knowledge on the latest trends and techniques in the field. I collaborate with teams to ensure that security is a priority in all aspects of business. Throughout my career, I have achieved significant results, including VPN migrations, Firewall installation, and equipment migration to Datacenter.\nIn summary, as a cybersecurity specialist, I am committed to providing effective solutions to ensure that companies are protected against cyber attacks and other security risks.\n\n* Bilingual (Spanish and English)\n* Residency Status: Stamp 2 Irish Visa (Permitted to work in Ireland part time)\n* Currently based in Ireland",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/eacdb5d5-1e1f-491d-9245-6f7c4acfd3f0_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/eacdb5d5-1e1f-491d-9245-6f7c4acfd3f0_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a1da1254-2646-4634-bdd3-99ccb0a6edd7_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/a1da1254-2646-4634-bdd3-99ccb0a6edd7_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJNfOVZSuRpBIRsA6kIeD6AAQ)",
-        "country": "España",
-        "region": "Cataluña"
+        "notes": "Autocompleted using Google Maps API (id: ChIJL6wn6oAOZ0gRoHExl6nHAAo)",
+        "country": "Irlanda",
+        "region": "Dublín",
+        "municipality": "Dublín"
       }
     },
     "relevantLinks": [
@@ -28,208 +29,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Videocation.es",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/969f39a4-8b9e-43eb-a18f-b6ef1722803d_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/969f39a4-8b9e-43eb-a18f-b6ef1722803d_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "eCommerce expert in Videocation",
-            "startDate": "2022-01-01",
-            "finishDate": "2022-08-31",
-            "challenges": [
-              {
-                "description": "I'm collaborating with Videocation as an eCommerce expert generating video content for their platform. The main topics are related to digital transformation and how digital and online sales can be used and enhanced to potentiate companies' activity."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "EAE Business School",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/f67c8a44-f600-4377-88e6-4d09d9f4b0a5_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/f67c8a44-f600-4377-88e6-4d09d9f4b0a5_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Profesor - Master en eCommerce y marketing digital",
-            "startDate": "2021-11-01",
-            "challenges": [
-              {
-                "description": "Profesor invitado en el master eCommerce y marketing digital en EAE Business School"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "AXA Partners",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/0b61ff31-e726-46e1-8ae2-15456f06e772_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/0b61ff31-e726-46e1-8ae2-15456f06e772_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "IT Domain Owner - eCommerce",
-            "startDate": "2021-01-01",
-            "challenges": [
-              {
-                "description": "In charge of different teams of overall 40 colleagues delivering the AXA eCommerce global asset for all Business Lines all around the globe.\n\nResponsible for budget and staff as well as strategy and stakeholder alignment.\n\nWe deliver a state-of-the-art eCommerce, structured on microservices and with and API First architecture. \n\nCoordinating eCommerce rollout in EMEA countries and dozens of projects happening simultaneously.\n\nChange management and continuous improvement for our SCRUM and Agile@Scale practices."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Timeular",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4631e60e-7593-4e52-8f8d-c58189b08f93_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/4631e60e-7593-4e52-8f8d-c58189b08f93_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Head of Ecommerce",
-            "startDate": "2019-06-01",
-            "finishDate": "2020-12-31",
-            "challenges": [
-              {
-                "description": "Como responsable de la plataforma de e-commerce aseguro que responde a las necesidades de crecimiento y estrategia de la empresa. Me encargo de proveer la dirección tecnológica y la priorización de funcionalidades, con especial foco en la conversión, rendimiento y escalabilidad.\n\nGestiono el ciclo de vida de la plataforma y las funcionalidades. El desarrollo de nuevas funcionalidades es llevado a cabo en ciclos iterativos incrementales, dirigidos por la formulación de hipótesis y la validación de los aprendizajes fruto de los experimentos que diseñados para comprobar dichas hipótesis.\n\nMe encargo de planear el mantenimiento de la infraestructura, la arquitectura y las nuevas funcionalidades.\n\nTimeular es una start-up eraly-stage donde trabajamos con una actitud emprendedora en un entorno altamente cambiante. Trabajo para implementar buenas practicas de ingeniería para seguir y desarrollar los planes estratégicos de crecimiento. Timeular es un equipo totalmente distribuido con miembros tanto en Europa como en Norte América."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "netzstrategen GmbH",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/650b3ae6-7c8d-4549-84a1-8f4b901361af_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/650b3ae6-7c8d-4549-84a1-8f4b901361af_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Head of platform integrations",
-            "startDate": "2016-11-01",
-            "finishDate": "2019-05-31",
-            "challenges": [
-              {
-                "description": "Definición y creación de la oficina y equipo en Barcelona, gestionando selección de talento tecnológico de ámbito internacional. Definición de conocimientos y competencias para las nuevas posiciones así como de mentorizar miembros nuevos del equipo en los procesos de la empresa y en buenas practicas en ingeniería de software. También contribuí a la creación de una cultura e identidad para la nueva oficina basada en el dinamismo, la inquietud para la mejora y la excelencia técnica.\n\nCo-gestión de proyectos con otros responsables en las oficinas centrales en Alemania. Trabajé en la industria del retail, gran industria y para medios de comunicación Alemanes, viajando frecuentemente a Alemania para encuentros presenciales con el resto del equipo y con clientes.\n\nEncargado del análisis y dirección tecnológica para satisfacer los planes de negocio de transformación digital de nuestros clientes, planeando y ejecutando integraciones y migraciones de datos a gran escala des de sistemas obsoletos a nuevas e innovadoras soluciones que proporcionamos.\n\nResponsable de introducir metodologías agile en la empresa para transformar sus procesos internos, logrando mejoramos los tiempos de entrega y el valor de las mismas. Así mismo fui mentor de miembros de equipo y otros managers para la adopción de agile haciendo de ‘abogado agile’ a todos los niveles de la organización. Responsable también de la introducción de colaboración interdisciplinar en los equipos de desarrollo, incluyendo también expertos en usabilidad, gestores de cuentas e ingenieros. Los nuevos procesos relucieron dependencias y eliminaron bloqueos internos mejorando el clima de trabajo y la calidad de las entregas."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Runroom",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/87136f41-4113-40a4-afe4-60280fd2c81d_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/87136f41-4113-40a4-afe4-60280fd2c81d_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Arquitecto de soluciones Drupal",
-            "startDate": "2015-11-01",
-            "finishDate": "2016-11-30",
-            "challenges": [
-              {
-                "description": "Principal arquitecto para la co-creación de soluciones a medida basadas en Drupal, trabajando codo con codo con cliente.\n\nParticipando en todas las fases de los proyectos, des de la ideación y captación de requerimientos, diseño, implementación y seguimiento posterior use metodologías agile para la predicción y planificación.\n\nMentoraje de nuevos y antiguos miembros del equipo en las estrategias Drupal de implementación y sus buenas practicas.\n\nCoordinación interdisciplinar para la entrega de proyectos web juntamente con campañas de marketing digital y procesos de negocio del cliente, responsabilizándome de migraciones de gran volumen de datos a nuevas plataformas.\n\nActuando como Scrum Master facilité la toma de decisiones para mejorar el rendimiento del equipo."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Projecte Ictineo"
-        },
-        "roles": [
-          {
-            "name": "Co-Fundador y responsable de tecnologia (CTO)",
-            "startDate": "2011-03-01",
-            "finishDate": "2015-06-30",
-            "challenges": [
-              {
-                "description": "Fundador y director de tecnología de esta agencia de comunicación y transformación digital.\n\nParticipé en tareas comerciales, gestión de proyectos, contratación, creación de equipo, formación interna y externa así como de introducir metodologías de gestión de proyectos en el equipo.\n\nGestión de relación con clientes y proveedores, negociando presupuestos y alcances.\n\nPonente en eventos, meetups y para instituciones educativas.\n\nEspecialización en gestores de contenido (CMS) de código abierto como Drupal, WordPress, Moodle y OJS."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Freelance"
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de Software, especialista en Drupal",
-            "startDate": "2011-01-01",
-            "finishDate": "2011-03-31",
-            "challenges": [
-              {
-                "description": "Desarrollador experto en Drupal y contribuidor de código abierto. Realización de implementaciones backend y frontend. Coordinación técnica del equipo y gestión de proyectos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "UAB - Universitat Autònoma de Barcelona",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/63e6279b-fe11-41db-8bd9-93a9ad47f6c1_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/63e6279b-fe11-41db-8bd9-93a9ad47f6c1_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de Software, especialista en Drupal",
-            "startDate": "2009-12-01",
-            "finishDate": "2010-12-31",
-            "challenges": [
-              {
-                "description": "Implementación de soluciones a medida para el procesado de contenido multimedia con tecnología de estándares abiertos. Trabajando con Open Atrium (Drupal 6) y modulos features, context y spaces."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "UAB - Universitat Autònoma de Barcelona",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/adf0a9fe-3d43-4178-9180-66ff5cfed2c5_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/adf0a9fe-3d43-4178-9180-66ff5cfed2c5_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de Software, especialista en Moodle",
-            "startDate": "2009-01-01",
-            "finishDate": "2009-12-31",
-            "challenges": [
-              {
-                "description": "Implementación de soluciones a medida para Moodle para actividades adaptadas a niños y niñas pequeñas como parte de una investigación académica."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

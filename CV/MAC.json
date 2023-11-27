@@ -11,8 +11,8 @@
       "title": "Securing and automating mission critical deployments",
       "description": "I am a technically sophisticated and high-performance professional skilled at securing, defining, designing and implementing highly secure environments. Adept at co-ordinating with software developers, system operators and other multi-skilled IT teams to oversee code releases and governance.\nResponsible for global delivery of solutions focused on security\nI likes all aspect of security, from networking to RFID and Social engineering, \nwhen I'm not working on my duties I am probably busy rock climbing",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/db3fe22d-0126-4dc9-9abf-e2a2e08b91cf_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/db3fe22d-0126-4dc9-9abf-e2a2e08b91cf_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/6c411ac6-c47c-45ad-ae73-98e569f36aa3_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/6c411ac6-c47c-45ad-ae73-98e569f36aa3_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
@@ -27,6 +27,219 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Nortal",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/ab6dfd22-d3b5-4f96-803e-327b633e58dd_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/ab6dfd22-d3b5-4f96-803e-327b633e58dd_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Platform Engineer (DevOps)",
+            "startDate": "2022-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Chip",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/50523352-3a9a-4c1a-aad7-2390edb13de5_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/50523352-3a9a-4c1a-aad7-2390edb13de5_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Security Platform Engineer (DevSecOps)",
+            "startDate": "2020-12-01",
+            "finishDate": "2022-07-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mastercard",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/250431df-817a-4f5a-baed-1d850021742e_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/250431df-817a-4f5a-baed-1d850021742e_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead DevSecOps Engineer",
+            "startDate": "2019-08-01",
+            "finishDate": "2020-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Expedia Group",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/70418768-af14-4ef5-9ec3-0ff5faf30449_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/70418768-af14-4ef5-9ec3-0ff5faf30449_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior SRE Engineer",
+            "startDate": "2018-08-01",
+            "finishDate": "2019-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Personio",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/5b10783c-c8f7-478d-9bd0-7a1be38d0258_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/5b10783c-c8f7-478d-9bd0-7a1be38d0258_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Platform Engineer (DevOps)",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Condé Nast International",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/d09a91ad-64c7-4dd5-bc92-02a0a94002f7_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/d09a91ad-64c7-4dd5-bc92-02a0a94002f7_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministry of Justice UK",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4c5edff6-630e-4812-aa6e-04b314c031b8_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/4c5edff6-630e-4812-aa6e-04b314c031b8_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2015-06-01",
+            "finishDate": "2016-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/8bcf797c-23c9-49ac-9358-871cb605d3f8_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/8bcf797c-23c9-49ac-9358-871cb605d3f8_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "SRE Engineer",
+            "startDate": "2015-01-01",
+            "finishDate": "2015-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Blackhatch",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/43bbfcb9-dc8b-43d3-bc72-856954175e0a_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/43bbfcb9-dc8b-43d3-bc72-856954175e0a_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Founder",
+            "startDate": "2015-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hailo",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/9b1023a1-f409-4250-ad3a-41e3abb4df92_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/9b1023a1-f409-4250-ad3a-41e3abb4df92_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2014-04-01",
+            "finishDate": "2015-01-31",
+            "challenges": [
+              {
+                "description": "Scaling micro-services Architecture on AWS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Green Man Gaming",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a661a175-8635-42a6-ba55-8a1d640b1a1c_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/a661a175-8635-42a6-ba55-8a1d640b1a1c_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2013-01-01",
+            "finishDate": "2014-04-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hacktive Security",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/b01244fa-8c4c-40d4-a612-767559e48658_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/b01244fa-8c4c-40d4-a612-767559e48658_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "SOC Analyst and Junior Pentester @ Poste Italiane",
+            "startDate": "2010-01-01",
+            "finishDate": "2013-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DataSign A/S",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/8c4c0756-91f6-47c1-ae42-671e634d8939_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/8c4c0756-91f6-47c1-ae42-671e634d8939_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2007-06-01",
+            "finishDate": "2010-01-31"
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

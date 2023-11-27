@@ -11,8 +11,8 @@
       "title": "Front End · UX Engineer",
       "description": "Como diseñadora gráfica fui adaptando mi perfil al desarrollo web, trabajando como front end desde hace cinco años.\n\nDisfruto involucrándome en el análisis del producto y sus funcionalidades, del UX al desarrollo, siempre con una visión crítica y aportando gran atención a los detalles.\n\nTengo especial interés por los Sistemas de diseño, las BBPP, el código limpio y los debates sobre estándares dentro de un equipo de desarrollo.\n\nMi experiencia como freelance me ha enseñado a escuchar y comprender las necesidades de los diferentes equipos y proyectos.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/05d26b2a-247c-4891-b624-bc0221311c2d_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/05d26b2a-247c-4891-b624-bc0221311c2d_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/26fc8549-5943-4e57-a849-8308498a6808_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/26fc8549-5943-4e57-a849-8308498a6808_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -29,6 +29,163 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "FCM Travel",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/54b3a0a1-4949-4632-963f-686ae214522a_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/54b3a0a1-4949-4632-963f-686ae214522a_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Front End & UX Engineer",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "> Diseño y creación de flujos para nuevas funcionalidades, y desarrollo de prototipos para pruebas de concepto. \n> Elaboración de Design System.\n> Agilización de procesos y optimización de código dentro del equipo de Front:\n - Adaptación de Design System al proyecto y sus componentes y documentación en Storybook.\n - Elaboración de guía de estilos y BBPP, así como implementación de documentación técnica."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Minsait",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4c4d8006-d4f9-47af-b0b5-6a9cd29491a6_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/4c4d8006-d4f9-47af-b0b5-6a9cd29491a6_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Front End",
+            "startDate": "2019-11-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "> Desarrollo de producto propio en Onesait y Procesos Electorales.\n> Mantenimiento del Design System.\n> Trabajo con metodología Scrum, creación de user stories y gestión de tareas en Jira.\n> Mentora en el programa Women4IT de Plan International España."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ironhack",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/d0e172e1-bc87-4f6e-8376-3e1c1e490ec5_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/d0e172e1-bc87-4f6e-8376-3e1c1e490ec5_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Teacher Assistant",
+            "startDate": "2018-10-01",
+            "finishDate": "2018-11-01",
+            "challenges": [
+              {
+                "description": "> Formadora durante la semana de código en el bootcamp de UX/UI Design.\n> Acompañamiento al alumnado, resolución de dudas y corrección de las tareas prácticas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "intelygenz",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/9edfded8-cdbe-431b-9111-517dc49b6722_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/9edfded8-cdbe-431b-9111-517dc49b6722_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2018-10-01",
+            "finishDate": "2019-11-30",
+            "challenges": [
+              {
+                "description": "> Desarrollo mobile con Ionic para producto B2C.\n> Elaboración de criterios de aceptación, testing manual y E2E con Cypress."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bienal Iberoamericana de Diseño - DIMAD",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/2bcfac51-6d35-495b-9667-befe3aafd055_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/2bcfac51-6d35-495b-9667-befe3aafd055_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Diseñadora gráfica",
+            "startDate": "2015-02-01",
+            "finishDate": "2015-04-30",
+            "challenges": [
+              {
+                "description": "> Diseño y maquetación de catálogo y otros soportes gráficos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Diseñadora gráfica",
+            "startDate": "2012-03-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
+              {
+                "description": "🖍️ Diseño gráfico · Editorial · Web · UX/UI · Identidad visual\n💼 Algunos Clientes: Fundación Alternativas · SGAE · PrideCom · PlasticsEurope · DIMAD · Editorial Nowtilus · Embajada de Canadá · Materia Prima · E-Datta · Dicendi · ENTRESijos AC\n\n> Liderazgo de proyectos.\n> Investigación UX, benchmarking, conceptualización y desarrollo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dato-Sur S.L. - Producción Audiovisual"
+        },
+        "roles": [
+          {
+            "name": "Asistente personal",
+            "startDate": "2009-06-01",
+            "finishDate": "2011-12-31",
+            "challenges": [
+              {
+                "description": "- Control de agenda e e-mail personal\n- Comunicación y mailing\n- Búsqueda, desarrollo y justificación de Ayudas y Subvenciones al Proyecto Audiovisual\n- Transcripción y corrección de guiones cinematográficos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Diferentes entidades"
+        },
+        "roles": [
+          {
+            "name": "Formadora",
+            "startDate": "2007-09-01",
+            "finishDate": "2015-01-31",
+            "challenges": [
+              {
+                "description": "Experiencia docente en el ámbito de las artes plásticas y el diseño gráfico, con especial enfoque en los procesos creativos y la experimentación del alumnado."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

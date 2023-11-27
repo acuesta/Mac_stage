@@ -29,6 +29,112 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BQ Educación",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a4e17f0d-6f52-4980-b50e-a9e2c0046514_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/a4e17f0d-6f52-4980-b50e-a9e2c0046514_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Diseñador UX / UI ",
+            "startDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "Diseñador de interfaces de usuario y experiencia digital.\n· Benchmark.\n· Historias de usuario.\n· Creación de user persona.\n· Creación de user flows.\n· Prototipado de baja, media y alta fidelidad.\n· Presentación de proyecto ante cliente.\n· Testeo con usuarios internos y usuarios finales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Catwalk-669",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/7ab8358a-8bd3-40c3-94ce-f509df78771a_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/7ab8358a-8bd3-40c3-94ce-f509df78771a_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Master & Project Manager",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "Responsable de proyectos web y proyectos IT.\n· Gestión de proyectos de implantación informática.\n· Gestión de proyecto rendimiento informático.\n· Diseño de arquitectura de la información.\n· Diseño de costumer flow.\n· Diseño UI.\n· Diseño gráfico."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Catwalk-669",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/d90c012a-ee25-4e08-970b-137bd1032717_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/d90c012a-ee25-4e08-970b-137bd1032717_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Master",
+            "startDate": "2017-10-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "Responsable proyecto de ecommerce B2C de los productos de la empresa.\n· Diseño de arquitectura de la información.\n· Diseño de costumer flow.\n· Diseño UI.\n· Desarrollo front end (nivel básico).\n· Gestión técnica de la tienda.\n· Diseño gráfico."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Catwalk-669",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/20f4933d-bca6-4459-b91d-64cd6c5492f8_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/20f4933d-bca6-4459-b91d-64cd6c5492f8_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Diseñador gráfico",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Responsable de generar contenido digital: Fotografía de producto, presentaciones comerciales, infografías explicativas, diseño de creatividades para comunicación online. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Catwalk-669",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/6a29557a-c2e4-44e5-98d0-282f5f170ca3_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/6a29557a-c2e4-44e5-98d0-282f5f170ca3_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Diseñador en prácticas",
+            "startDate": "2016-06-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": "Diseñador gráfico en prácticas mientras curso mi master en Diseño Web en BAU Centre Universitari de Disseny. Mi función principal es apoyar al equipo de producto con los diseños que necesiten."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

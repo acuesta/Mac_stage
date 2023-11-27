@@ -6,19 +6,18 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Xavier",
-      "surnames": "Soler",
-      "title": "Project Manager - Wordpress Developer",
-      "description": "Experienced Head Of Design with a demonstrated history of working in the computer software industry. Skilled in javascript, PHP, WordPress, and Graphic Design. Strong arts and design professional graduated from LAI (Universitat Internacional de Catalunya). ",
+      "name": "Arnau",
+      "surnames": "Pareja Escamilla",
+      "title": "Talent & People Career Development | Agile Manager | Innovación & Transformación Digital | Mentor & Coach | Executive MBA",
+      "description": "🙋‍♂️ ¡Hola! Soy Arnau y mi pasión es empatizar con a las personas y acompañarlas a desarrollarse profesional y personalmente, liderar equipos, maximizar la entrega de valor, crear soluciones innovadoras y facilitar el cambio cultural.\n\n⭐ Soy Senior con +7 años de experiencia en Innovación y Transformación Digital, Management, Desarrollo y Gestión de Talento RRHH.\n\nA lo largo de mi trayectoria, he desempeñado los roles clave del sector digital: Talent & People Career Development & Adquisition, Recursos Humanos, Agile Product & Project Manager, UX / UI Designer, Marketing, Business Analyst y Software Engineer. \n\nHe tenido la oportunidad de desarrollarme profesionalmente en múltiples entornos y culturas empresariales: B2B, B2C, consultoría, corporate, startup, sector público y ámbito universitario.\n\nCon el propósito de garantizar el éxito en el desempeño del equipo, en mi día a día empleo las metodologías más innovadoras: Agile, Design Thinking, Insights, KPI Data Analytics, Scrum, User Centered Design, Lean, KPI, OKR, entre otras.\n\n📚 Enriquecer mi experiencia laboral con nuevos aprendizajes ha sido vital para ampliar perspectivas, adquirir nuevas habilidades y colaborar con grandes profesionales.\n\nComo resultado de mi compromiso con el aprendizaje continuo, he completado las siguientes formaciones:\n\n✔️ Máster en Executive MBA\n✔️ Grado en Ingeniería Informática\n✔️ Máster en Agile Product Manager, Project Manager & Product Owner\n✔️ Máster en Diseño de Experiencia de Usuario\n✔️ Bootcamp en Agile Product Manager, Project Manager & Product Owner\n✔️ Bootcamp en UX Research, Insights & Metrics\n✔️ Bootcamp en Game UX / UI Product Designer\n\n🚀 Mi desarrollo personal y profesional es el resultado de vivir y aprender de una gran diversidad de valiosas experiencias en empresas, roles y formaciones.\n\nEstas experiencias me han permitido:\n\n1️⃣ Tener entendimiento sólido acerca de cómo funcionan las organizaciones, el liderazgo de equipos, el diseño de estrategias de negocio, los procesos formativos de reskilling y upskilling, la atracción y captación de talento, el desarrollo de productos y proyectos centrados en el usuario, la gestión del cambio y la estructura organizacional.\n\n2️⃣ Desempeñar habilidades y aptitudes clave: liderazgo, empatía para comprender las necesidades de las personas, capacidad de organización y priorización, gestión de equipos, resiliencia, habilidades analíticas, identificar insights, transformar obstáculos en oportunidades, comunicación con stakeholders, trabajo en equipo, capacidad de transmitir conocimiento a través de la enseñanza.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/9e76a4d6-db4e-4c8a-a5ef-f63eea1cec9b_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/9e76a4d6-db4e-4c8a-a5ef-f63eea1cec9b_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4c0cfd81-e607-40ed-a990-7f0faa6df1a6_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/4c0cfd81-e607-40ed-a990-7f0faa6df1a6_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJR7wL1XaYpBIR7EoGAtgHJ0Y)",
         "country": "España",
-        "region": "Cataluña",
-        "municipality": "Barcelona"
+        "region": "Cataluña"
       }
     },
     "relevantLinks": [
@@ -29,138 +28,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "SEQUOIASOFT",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/e6d7e95e-558e-49b2-8fa8-b7b51da50016_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/e6d7e95e-558e-49b2-8fa8-b7b51da50016_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Web agency Manager",
-            "startDate": "2022-04-01",
-            "challenges": [
-              {
-                "description": "Skills: Desarrollo en Wordpress · E-Commerce · Control de versiones · Webpack · Art Direction · Adobe Illustrator · Search Engine Optimization (SEO) · Figma (Software) · UIX · Project Management · JavaScript · WordPress · Front-end Development"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Master Camping",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/cf8f2936-4a80-4ef1-b045-8d2e52477d36_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/cf8f2936-4a80-4ef1-b045-8d2e52477d36_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Web Department Manager",
-            "startDate": "2016-02-01",
-            "finishDate": "2022-04-30",
-            "challenges": [
-              {
-                "description": "Skills: Desarrollo en Wordpress · E-Commerce · Control de versiones · Webpack · Art Direction · Adobe Illustrator · Search Engine Optimization (SEO) · Figma (Software)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "tak, básico para hombre"
-        },
-        "roles": [
-          {
-            "name": "co-Owner",
-            "startDate": "2011-11-01",
-            "finishDate": "2018-03-31",
-            "challenges": [
-              {
-                "description": "Skills: E-Commerce · Art Direction · Adobe Illustrator · WooCommerce · Search Engine Optimization (SEO)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "masterASP",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/8f9c5005-d6dc-431e-8876-9d7784daaa6a_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/8f9c5005-d6dc-431e-8876-9d7784daaa6a_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Web Department Manager",
-            "startDate": "2008-04-01",
-            "finishDate": "2016-02-28",
-            "challenges": [
-              {
-                "description": "Skills: Desarrollo en Wordpress · E-Commerce · Control de versiones · Art Direction · Adobe Illustrator · WooCommerce · Search Engine Optimization (SEO)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Properazzi"
-        },
-        "roles": [
-          {
-            "name": "Web Design Manager",
-            "startDate": "2007-02-01",
-            "finishDate": "2007-10-31",
-            "challenges": [
-              {
-                "description": "Skills: Art Direction"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sagrera tv"
-        },
-        "roles": [
-          {
-            "name": "Web Department Manager",
-            "startDate": "2005-10-01",
-            "finishDate": "2009-04-30",
-            "challenges": [
-              {
-                "description": "Skills: Art Direction"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Oasys Soft"
-        },
-        "roles": [
-          {
-            "name": "Web Design Manager",
-            "startDate": "2001-01-01",
-            "finishDate": "2007-01-01",
-            "challenges": [
-              {
-                "description": "Skills: Art Direction"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

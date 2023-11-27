@@ -11,8 +11,8 @@
       "title": "Desarrollador Web",
       "description": "Profesional con mentalidad emprendedora, he colaborado con empresas para desarrollar automatizaciones mediante el proceso de lenguaje natural o \"NLP\". Actualmente, trabajo en Quonversa como desarrollador de Chatbots mediante el uso de tecnologías como .NET o Dialogflow ES y CX.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/0d3bb468-911d-44c6-bf54-746e64c6c8c0_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/0d3bb468-911d-44c6-bf54-746e64c6c8c0_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4dafdddc-b7d1-4920-bd79-cba975842291_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/4dafdddc-b7d1-4920-bd79-cba975842291_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ-TIzqeY-QQ0Rt98TvyFyVlQ)",
@@ -29,6 +29,181 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Rawson BPO",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/fb95b1d2-cad8-4b4e-9b4d-35b02ac7ee76_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/fb95b1d2-cad8-4b4e-9b4d-35b02ac7ee76_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2023-03-01",
+            "finishDate": "2023-07-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicación web en Django-Python, mediante comunicaciones en formato JSON con Angular para su posterior CRUD en BBDD, PostgreSQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Keroppa",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/f01d6429-5a9c-4226-b78c-45a63ad6bcca_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/f01d6429-5a9c-4226-b78c-45a63ad6bcca_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2022-08-01",
+            "finishDate": "2023-01-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones web en Django-Python, leyendo distintos tipos de ficheros, para su comprobación con los datos guardados en Odoo y mostrar el resultado.\n\nDesarrollo de script en Python integrando productos en Marketplace de Miravia, mediante peticiones a Odoo, haciendo un CRUD con los productos ofrecidos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ubikare",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/b98dc7e3-09d3-42dd-9dfe-acc706595183_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/b98dc7e3-09d3-42dd-9dfe-acc706595183_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-04-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicación web en Angular, realizando vistas de formularios, comunicando con Spring para hacer un CRUD de datos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tigloo",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/3dd84890-24bc-4642-9eb3-0cfa17b29802_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/3dd84890-24bc-4642-9eb3-0cfa17b29802_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "Modificar aplicación web en Angular y Symfony realizando vistas de formularios y guardado de datos en MySQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EMARKETERS",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/5f8fdcfa-303f-4aa9-abfb-9f6e7c9efa3b_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/5f8fdcfa-303f-4aa9-abfb-9f6e7c9efa3b_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2020-03-01",
+            "finishDate": "2020-05-31",
+            "challenges": [
+              {
+                "description": "Desarrollo y modificación páginas web en WordPress, PrestaShop."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TORO VEHICULOS ESPECIALES Y SISTEMAS, S.L"
+        },
+        "roles": [
+          {
+            "name": "Montador de aparatos electrónicos",
+            "startDate": "2017-08-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "Montar simuladores de conducción."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TORO VEHICULOS ESPECIALES Y SISTEMAS, S.L"
+        },
+        "roles": [
+          {
+            "name": "Montador de aparatos electrónicos",
+            "startDate": "2016-04-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Montar simuladores de conducción."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SEGOVIA SPORT, S.L."
+        },
+        "roles": [
+          {
+            "name": "Oficial de mantenimiento ",
+            "startDate": "2014-12-01",
+            "finishDate": "2015-04-30",
+            "challenges": [
+              {
+                "description": "Mantenimiento de instalación deportiva."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LUMAR SEGOVIA-AVILA. S.L."
+        },
+        "roles": [
+          {
+            "name": "Electricista de obras",
+            "startDate": "2007-06-01",
+            "finishDate": "2008-01-31",
+            "challenges": [
+              {
+                "description": "Instalaciones en edificios y casas unifamiliares."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

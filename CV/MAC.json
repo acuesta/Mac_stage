@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Jordi",
-      "surnames": "Paloma",
-      "title": "Cloud architect & Kubernetes fan",
+      "name": "Daniel",
+      "surnames": "García Díez",
+      "title": "Desarrollador Web",
       "description": "Profesional con mentalidad emprendedora, he colaborado con empresas para desarrollar automatizaciones mediante el proceso de lenguaje natural o \"NLP\". Actualmente, trabajo en Quonversa como desarrollador de Chatbots mediante el uso de tecnologías como .NET o Dialogflow ES y CX.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/ca97e378-c7d9-4550-a82c-012feb42b4e0_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/ca97e378-c7d9-4550-a82c-012feb42b4e0_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/e3b60af4-c53b-481c-916c-c58f79406769_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/e3b60af4-c53b-481c-916c-c58f79406769_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJ-TIzqeY-QQ0Rt98TvyFyVlQ)",
         "country": "España",
-        "region": "Cataluña",
-        "municipality": "Barcelona"
+        "region": "Castilla y León",
+        "municipality": "Segovia"
       }
     },
     "relevantLinks": [
@@ -29,152 +29,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Enreach ES",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/d5543ebc-9853-4d1b-b66e-b85fb48b22d4_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/d5543ebc-9853-4d1b-b66e-b85fb48b22d4_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Technical Support Lead",
-            "startDate": "2022-09-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "bracketsLab",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a434ce0f-7a0b-40b1-ad9b-5ecc23b4e8c5_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/a434ce0f-7a0b-40b1-ad9b-5ecc23b4e8c5_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "CEO",
-            "startDate": "2020-08-01",
-            "finishDate": "2022-11-30"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "HUB Buildings",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/9e3f1600-5e73-4bba-8f4a-5b4ae671dabc_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/9e3f1600-5e73-4bba-8f4a-5b4ae671dabc_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "CTO",
-            "startDate": "2018-02-01",
-            "finishDate": "2020-08-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Masvoz",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4ace52e3-cb24-4c20-935b-f6595a750364_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/4ace52e3-cb24-4c20-935b-f6595a750364_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Técnico senior de sistemas linux y VoIP",
-            "startDate": "2014-08-01",
-            "finishDate": "2018-02-28",
-            "challenges": [
-              {
-                "description": "Técnico senior ubicado en departamento IT de operador de Telefonía IP administrando el conjunto de la plataforma asegurando la alta disponibilidad.\nResolución de incidencias de tercer nivel, dando soporte para interconexiones con otros operadores VoIP y, puntualmente, cliente final.\nHomologación de dispositivos SIP y desarrollo de producto.\n\n"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "INCIBE - Instituto Nacional de Ciberseguridad",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/1b34edc2-99b9-4eb6-a10e-b333bd75c2f1_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/1b34edc2-99b9-4eb6-a10e-b333bd75c2f1_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Prácticas pentesting",
-            "startDate": "2014-01-01",
-            "finishDate": "2014-06-30",
-            "challenges": [
-              {
-                "description": "Realización de las prácticas profesionalizadoras del Máster en seguridad en sistemas TIC. Durante estas prácticas se están realizando pruebas de penetración a diversos servidores en producción. Recolección de información. Explotación de vulnerabilidades. Postexplotación del sistema. Generación de informes. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "VozTelecom",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/9aab41e1-f177-4f20-b3ea-eed239c0f10f_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/9aab41e1-f177-4f20-b3ea-eed239c0f10f_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Responsable departamento implantación sistemas VoIP",
-            "startDate": "2007-05-01",
-            "finishDate": "2014-08-31",
-            "challenges": [
-              {
-                "description": "Coordinación equipo formado por 6 técnicos especialistas en VoIP, así cómo de la certificación del canal de distribución. Realización de evaluaciones y formaciones de los mismos.\nAnálisis y resolución de incidencias surgidas en la plataforma y la posterior redacción de procedimientos y protocolos con el fin de minimizar el número de incidencias postventa. \nHomologación de dispositivos SIP y desarrollo de producto.\n\n"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Orama Systems"
-        },
-        "roles": [
-          {
-            "name": "Responsable departamento de sistemas",
-            "startDate": "2004-11-01",
-            "finishDate": "2007-05-31",
-            "challenges": [
-              {
-                "description": "Responsable técnico con cuatro persona a cargo. Mis funciones eran la de administrar los sistemas de la empresa, el desarrollo de proyectos en clientes finales, formación de partners nacionales, I+D, coordinación técnicos de campo y redacción de manuales y procedimientos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Al-pi Telecomunicaciones"
-        },
-        "roles": [
-          {
-            "name": "Administrativo técnico del CtiTI",
-            "startDate": "2003-12-01",
-            "finishDate": "2004-11-30",
-            "challenges": [
-              {
-                "description": "Funciones: Administrar a nivel de telecomunicaciones algunos de los departamentos gubernamentales de la Generalitat. Así como coordinar pequeñas instalaciones."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

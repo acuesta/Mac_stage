@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Daniel",
-      "surnames": "García Díez",
-      "title": "Desarrollador Web",
-      "description": "I am a technically sophisticated and high-performance professional skilled at securing, defining, designing and implementing highly secure environments. Adept at co-ordinating with software developers, system operators and other multi-skilled IT teams to oversee code releases and governance.\nResponsible for global delivery of solutions focused on security\nI likes all aspect of security, from networking to RFID and Social engineering, \nwhen I'm not working on my duties I am probably busy rock climbing",
+      "name": "Paula",
+      "surnames": "García Arizcun",
+      "title": "Front End · UX Engineer",
+      "description": "Como diseñadora gráfica fui adaptando mi perfil al desarrollo web, trabajando como front end desde hace cinco años.\n\nDisfruto involucrándome en el análisis del producto y sus funcionalidades, del UX al desarrollo, siempre con una visión crítica y aportando gran atención a los detalles.\n\nTengo especial interés por los Sistemas de diseño, las BBPP, el código limpio y los debates sobre estándares dentro de un equipo de desarrollo.\n\nMi experiencia como freelance me ha enseñado a escuchar y comprender las necesidades de los diferentes equipos y proyectos.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/4bd46bbe-eb91-4206-b67a-c50640186dd1_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/4bd46bbe-eb91-4206-b67a-c50640186dd1_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/cc539d8a-7868-43f1-820a-8a2f1cd126d0_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/cc539d8a-7868-43f1-820a-8a2f1cd126d0_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ-TIzqeY-QQ0Rt98TvyFyVlQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
-        "region": "Castilla y León",
-        "municipality": "Segovia"
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -29,181 +29,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Rawson BPO",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/da028d15-74da-4e93-9ea5-1953d73beacf_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/da028d15-74da-4e93-9ea5-1953d73beacf_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador web",
-            "startDate": "2023-03-01",
-            "finishDate": "2023-07-31",
-            "challenges": [
-              {
-                "description": "Desarrollo de aplicación web en Django-Python, mediante comunicaciones en formato JSON con Angular para su posterior CRUD en BBDD, PostgreSQL."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Keroppa",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/8cb8c568-b2ae-477e-8623-539ab857fc9f_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/8cb8c568-b2ae-477e-8623-539ab857fc9f_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador web",
-            "startDate": "2022-08-01",
-            "finishDate": "2023-01-31",
-            "challenges": [
-              {
-                "description": "Desarrollo de aplicaciones web en Django-Python, leyendo distintos tipos de ficheros, para su comprobación con los datos guardados en Odoo y mostrar el resultado.\n\nDesarrollo de script en Python integrando productos en Marketplace de Miravia, mediante peticiones a Odoo, haciendo un CRUD con los productos ofrecidos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Ubikare",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/13fcc204-839f-4be8-a53a-f2e7b7902be6_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/13fcc204-839f-4be8-a53a-f2e7b7902be6_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador web",
-            "startDate": "2022-02-01",
-            "finishDate": "2022-04-30",
-            "challenges": [
-              {
-                "description": "Desarrollo de aplicación web en Angular, realizando vistas de formularios, comunicando con Spring para hacer un CRUD de datos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Tigloo",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/ca3d6384-6492-44bf-b38f-83bffaff75e8_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/ca3d6384-6492-44bf-b38f-83bffaff75e8_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador web",
-            "startDate": "2021-12-01",
-            "finishDate": "2022-02-28",
-            "challenges": [
-              {
-                "description": "Modificar aplicación web en Angular y Symfony realizando vistas de formularios y guardado de datos en MySQL."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "EMARKETERS",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/2bb3f2b5-74c8-4943-bc0a-5454ae859cee_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/2bb3f2b5-74c8-4943-bc0a-5454ae859cee_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador web",
-            "startDate": "2020-03-01",
-            "finishDate": "2020-05-31",
-            "challenges": [
-              {
-                "description": "Desarrollo y modificación páginas web en WordPress, PrestaShop."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "TORO VEHICULOS ESPECIALES Y SISTEMAS, S.L"
-        },
-        "roles": [
-          {
-            "name": "Montador de aparatos electrónicos",
-            "startDate": "2017-08-01",
-            "finishDate": "2018-09-30",
-            "challenges": [
-              {
-                "description": "Montar simuladores de conducción."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "TORO VEHICULOS ESPECIALES Y SISTEMAS, S.L"
-        },
-        "roles": [
-          {
-            "name": "Montador de aparatos electrónicos",
-            "startDate": "2016-04-01",
-            "finishDate": "2017-01-31",
-            "challenges": [
-              {
-                "description": "Montar simuladores de conducción."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "SEGOVIA SPORT, S.L."
-        },
-        "roles": [
-          {
-            "name": "Oficial de mantenimiento ",
-            "startDate": "2014-12-01",
-            "finishDate": "2015-04-30",
-            "challenges": [
-              {
-                "description": "Mantenimiento de instalación deportiva."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "LUMAR SEGOVIA-AVILA. S.L."
-        },
-        "roles": [
-          {
-            "name": "Electricista de obras",
-            "startDate": "2007-06-01",
-            "finishDate": "2008-01-31",
-            "challenges": [
-              {
-                "description": "Instalaciones en edificios y casas unifamiliares."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

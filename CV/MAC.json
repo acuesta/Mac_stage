@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Jimmy",
-      "surnames": "Isaac Ventura Salcedo",
-      "title": "Solutions Architect",
-      "description": "Jimmy is a Solutions Architect with a strong software engineering background. He posseses domain\nknowledge expertise in several industry sectors including Banking, Telecomunications and Ecommerce.\nProven experienced leading/managing decentralized teams accross multiple continents. Possesses\ndemonstrable knowledge of complete sales lyfecycle both for consulting projects and computer system\nproducts (Hardware + Software)",
+      "name": "Gerald",
+      "surnames": "Andrei Tamaşi",
+      "title": "Frontend Developer at Cloud Nine AB",
+      "description": "Happy guy based in Gijón, Spain.\nLove creativity, coffee and Web Development.\n\nDo. Or do not. There is no try - Master Yoda",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/bb24d0f2-ff2b-4e58-9399-843bbdbbee8d_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/bb24d0f2-ff2b-4e58-9399-843bbdbbee8d_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/2ed42917-3312-4a33-a326-e745b9334392_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/2ed42917-3312-4a33-a326-e745b9334392_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJA4UGSG_xNIgRNBuiWqEV-Y0)",
-        "country": "Estados Unidos",
-        "region": "Pensilvania",
-        "municipality": "Pittsburgh"
+        "notes": "Autocompleted using Google Maps API (id: ChIJv5T0y2Z8Ng0RNjWNBAfSBr0)",
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Gijón"
       }
     },
     "relevantLinks": [
@@ -29,209 +29,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Elastic Path",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/ef8e298b-4e45-4767-ab56-620df8954177_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/ef8e298b-4e45-4767-ab56-620df8954177_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Solutions Architect",
-            "startDate": "2022-04-01",
-            "challenges": [
-              {
-                "description": "A Solutions Architect is responsible for engaging with customer stakeholders and third-party partners, bringing a unified vision that increases the customer objectives by guiding implementers to use all features of our e-commerce Platform as a service (PaaS).\n\n* Improved the comprehension of technology partners to increase productivity for solution delivery.\n\n* Saved customers thousands of dollars by helping them effectively understand and use product credits across our network of partners.\n\n* Increased adoption of partner software companies by providing solutions and leading proof of concepts that would showcase customer business cases.\n\n* Increased adoption of complimentary company products by addressing correct stakeholders and pitching aspirational use cases with targeted slide decks with a 100% success rate currently."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "PNC",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/161baf51-e8f4-4274-a681-0f919a500fa4_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/161baf51-e8f4-4274-a681-0f919a500fa4_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Solutions Architect",
-            "startDate": "2021-05-01",
-            "finishDate": "2022-04-30",
-            "challenges": [
-              {
-                "description": "A Solutions Architect is responsible for building roadmaps and architectures for the team's proofs-of-concept, prototypes and eventual end products or solutions. He engages with technology directors, bank stakeholders, third-party partners, fintechs and software vendors to establish cross-cutting technology strategies that provide benefits across the capital markets business segment.\n\n* Sucessfully steered the integration of Bond Accounting and Bond safekeeping products reducing the\nCompletion date by 35%\n\n* Key contributor of the process map for bond services marketing with a forecast of 10% revenue increase on a yearly basis"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sngular",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/e7397e80-646f-4dcf-b781-41ea09055a1f_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/e7397e80-646f-4dcf-b781-41ea09055a1f_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Solutions Architect",
-            "startDate": "2018-05-01",
-            "finishDate": "2019-12-31",
-            "challenges": [
-              {
-                "description": "The Solutions Architect is the day to day principal point of contact between the customer and Sngular's CTO. He provides guidance to the customer in order to efficiently incorporate cutting edge technologies into existing and new Banking product offerings.\n\n* Increased the number of colleagues assigned to the customer project by 100% by virtue of improved customer confidence\n\n* Opened new business opportunities for 3 additional projects from within the customer stakeholder portfolio\n\n* Established a reference system architecture as the standard solution for Account Opening accross the\ncomplete retail space."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sngular",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/e2d5ef57-2c07-46f6-b24a-46002af3f6ea_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/e2d5ef57-2c07-46f6-b24a-46002af3f6ea_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Senior Manager",
-            "startDate": "2016-11-01",
-            "finishDate": "2019-12-31",
-            "challenges": [
-              {
-                "description": "Responsible for the S|Ventures line of business (Ecommerce, Startups & Intrapreneur customer projects). Duties include the management of Core S|Ventures developer team, Interview lead for Java programmers and composition of Sales presentations, Design proof of concepts and provide feedback to Sales engineering with regards to request for proposals/information (RFP/RFI).\n\n* Optimization of multiple sites for largest funeral home franchise and its business spinoff (funeral flower arrangements) resulting in a 45% increase in sales (breaking the revenue barrier of 2 Million EUR/Mth) on the Spanish Market\n\n* Successfully opened largest S|Ventures project with the customer Cemex Ventures\n\n* Contributed with Sales engineering winning several projects for the company accross the complete spectrum of the organization"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Net4Things",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/7db5d28c-731d-4c57-ba19-ea52a46f0f0b_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/7db5d28c-731d-4c57-ba19-ea52a46f0f0b_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Chief Technology Officer",
-            "startDate": "2015-09-01",
-            "finishDate": "2016-11-30",
-            "challenges": [
-              {
-                "description": "Executive responsible for technology strategy offered by Net4Things reporting to the CEO. Responsibilities also include those traditionally assigned to a CIO\n\n* Drove an intensive recruitment and training strategy Increasing technology team size to 150%\n\n* Improved delivery rate of proof of concepts to 3 month cycles from the previous 6 month cycle\n\n* Increased the concurrent proof of concept bandwidth by 200% (original team could only work one proof of concept every 6 months)\n\n* Improved core product performance by 400% Achieving Tier 3 Uptime Institute's Tier Standard System requirements allowing the company to bid to RFPs requiring said system requirements\n\n* Successfully conducted winning bids for several RFPs resulting in pilot programs grant for Connected home IoT for America Movil (Forbes global 2000 largest telecommunication company in Latin America) and Caser Seguros (Large Insurance company)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Net4Things",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/c39d178b-1cec-44a8-8581-c9c918d8e278_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/c39d178b-1cec-44a8-8581-c9c918d8e278_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Engineer (Analyst)",
-            "startDate": "2014-09-01",
-            "finishDate": "2015-09-30",
-            "challenges": [
-              {
-                "description": "Profesional responsible for the implementation of Connected home solution. Assist in the elaboration of\nRFP/RFIs for technical specifications and implementation details.\n\n* Implementation of key features using expertise in the Java programming language and networking protocols for IoT.\n\n* Modernization of Software architecture overcoming legacy deficiencies for an increase of connected devices per server instance of 100X (from 100 devices to 10,000)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Freelance"
-        },
-        "roles": [
-          {
-            "name": "Software Consultant",
-            "startDate": "2010-10-01",
-            "finishDate": "2014-11-30",
-            "challenges": [
-              {
-                "description": "Participated in multiple projects for different clients providing software implementation capabilities, advise and guidance\n\n* Participation as a programmer for large project for Banco Santander succesfully delivering technical\nintegration with https://www.calypso.com/ for FX and Collaterals management. See projects for details\n\n* Participation as a programmer for 2 large projects for Telefonica. See projects for details"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Viajes Marsans"
-        },
-        "roles": [
-          {
-            "name": "Senior software engineer",
-            "startDate": "2009-06-01",
-            "finishDate": "2010-07-31",
-            "challenges": [
-              {
-                "description": "Participated in multiple projects for different clients providing software implementation capabilities, advise and guidance.\n\n* Requirement analysis, Design and implementation of the metrics portal for the web services integration engine\n* Analysis and implementation of new integrations with providers of travel products worldwide"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GLOKAL CONSULTING",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/916b9412-7ff9-4743-b1de-a14547cba17e_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/916b9412-7ff9-4743-b1de-a14547cba17e_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Programmer",
-            "startDate": "2008-10-01",
-            "finishDate": "2009-04-30",
-            "challenges": [
-              {
-                "description": "Java software programmer for consulting clients"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Verizon IT",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/0aa846fc-aaae-4111-a273-31a7dacdc569_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/0aa846fc-aaae-4111-a273-31a7dacdc569_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Programmer",
-            "startDate": "2004-11-01",
-            "finishDate": "2008-10-31",
-            "challenges": [
-              {
-                "description": "Offshore programmer specializing in Java Web Development\n\n* Increased Unit Testing coverage of all enterprise objects from 0 to 85%\n\n* Delivered customization for ABN AMRO deal worth 500,000 USD"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {

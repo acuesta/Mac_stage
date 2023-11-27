@@ -11,8 +11,8 @@
       "title": "1x.engineer | CTO | Professor | MS Computer Science",
       "description": "Software Engineer | MS Computer Science | https://1x.engineer\n\nAs an experienced technology professional, I have been fortunate to build and lead teams that contribute to a company's growth. My technical expertise has allowed me to address complex challenges and implement innovative solutions in various programming languages, software architecture, and web and mobile application development, including managing complex systems and working with distributed teams across the globe.\n\nI strive to foster collaboration and innovation within teams, encouraging them to exceed expectations. My background as a professor and startup founder reflects my dedication to nurturing talent and creating an environment that supports growth and learning. Additionally, I possess strong communication skills that enable me to effectively collaborate with business and product teams, ensuring a seamless integration of technology and strategy.\n\nIn summary, my combination of technical capabilities, leadership skills, a human-centered approach, and experience in handling complex systems and coordinating with distributed teams worldwide, along with my ability to work closely with business and product stakeholders, has enabled me to make a meaningful impact on the teams and organizations I have had the opportunity to work with.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/79cf6b84-1d17-4221-a0bd-1b6c8240b78b_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/79cf6b84-1d17-4221-a0bd-1b6c8240b78b_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/58da9803-ff8d-4c02-a1dd-1539ed93b6fa_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/58da9803-ff8d-4c02-a1dd-1539ed93b6fa_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -28,6 +28,321 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Pazy",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/7bf00b2b-ac6e-40e1-853c-90e4c4e97667_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/7bf00b2b-ac6e-40e1-853c-90e4c4e97667_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO in Residence (7r Ventures)",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-03-31",
+            "challenges": [
+              {
+                "description": "En Pazy trabajé como CTO in Residence. Mis responsabilidades principales se centraban en proporcionar orientación estratégica sobre el desarrollo de productos, tecnología y adquisición de talento técnico. Mi papel implicaba sentar la base tecnológica necesaria para permitir que el negocio entrara al mercado lo más rápido posible.\n\nColaboré con equipos multifuncionales para identificar y abordar desafíos técnicos, agilizar procesos y asegurar una fuerte alineación entre los objetivos empresariales y las soluciones tecnológicas. Mi experiencia en estrategia de producto y liderazgo tecnológico me permitió contribuir significativamente al crecimiento y éxito de la empresa, mientras creaba una infraestructura tecnológica escalable y eficiente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "pendel",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/ce93df9a-d9aa-45b0-8ef5-1ca487c4f640_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/ce93df9a-d9aa-45b0-8ef5-1ca487c4f640_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Co-Founder & CTO",
+            "startDate": "2021-11-01",
+            "finishDate": "2023-10-31",
+            "challenges": [
+              {
+                "description": "I co-founded a startup with two former colleagues while balancing our full-time jobs. As the sole technical expert, I played a multifaceted role by providing support in product development, operations, sales, and other aspects, all during my spare time. My diverse skill set and collaborative approach allowed me to contribute significantly to our startup's growth and success.\n\nKey technical responsibilities and accomplishments:\n - Spearheaded the development of a Flutter app\n - Developed the API using TypeScript, Next.js, and Prisma\n - Managed the integration with laboratory systems\n - Implemented the automatic generation of PDF reports\n - Utilized PostgreSQL as the primary database\n - Oversaw the infrastructure on Google Cloud Computing\n - Handled deployments and continuous integration to ensure a seamless and efficient technology ecosystem within our startup\n\nThis journey of founding and growing my own company, while managing my full-time job, has been an invaluable learning experience. Embracing the challenges and responsibilities of entrepreneurship has not only sharpened my technical and business acumen but also instilled a deep sense of resilience and adaptability."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vivla",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/7cf3c9d8-0131-4210-ad18-32b07be4cc42_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/7cf3c9d8-0131-4210-ad18-32b07be4cc42_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO in Residence (7r Ventures)",
+            "startDate": "2021-10-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": "Desempeñé un papel crucial en el desarrollo de la plataforma inicial que permitió a la empresa asegurar su primera ronda de financiación. Aprovechando mi experiencia en tecnología y estrategia de producto, ayudé a sentar las bases para el éxito de la plataforma.\n\nAdemás, orquesté desarrollos adicionales colaborando con empresas de desarrollo externas para lanzar la próxima versión de la plataforma. Este enfoque estratégico aseguró un lanzamiento oportuno y rentable, impulsando el crecimiento de la empresa y su presencia en el mercado, mientras reforzaba el valor de mis habilidades de liderazgo técnico y gestión de proyectos.\n\nAdemás forme parte de la contratación del nuevo lider técnico."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ringo Technologies",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/7b013669-71c5-4e2d-b5d0-feddd8e9ef3a_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/7b013669-71c5-4e2d-b5d0-feddd8e9ef3a_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO in Residence & Software Engineer (7r Ventures)",
+            "startDate": "2021-03-01",
+            "finishDate": "2021-11-30",
+            "challenges": [
+              {
+                "description": "En Ringo, una empresa especializada en digitalizar el acceso a propiedades alquiladas y compradas utilizando componentes de hardware y software, me uní a un equipo existente como líder técnico. Mis responsabilidades incluían brindar apoyo en el desarrollo y estrategia de producto, mientras también me centraba en mejorar la tecnología en términos de robusted, escalabilidad y calidad.\n\nLas tecnologías clave utilizadas durante mi tiempo en Ringo incluyen:\n\n- Infraestructura de Azure, incluyendo Azure IoT Hub para la gestión y comunicación de dispositivos\n- Plataforma Google Cloud (GCP) para necesidades adicionales de infraestructura\n- TypeScript para el desarrollo de API y aplicaciones (React y Next.js)\n- PostgreSQL para la gestión de bases de datos\n- C++ para el desarrollo de hardware\n\nGestioné un equipo remoto, con miembros en España y Brasil, teniendo que gestionar que los equipos trabajase correctamente en diferentes zonas horarias y culturas. Además, desempeñé un papel vital en la contratación de nuevo talento técnico para fortalecer las capacidades del equipo.\n\nBajo mi liderazgo, la tecnología y el equipo maduraron, contribuyendo finalmente a la adquisición exitosa de la empresa por Salto Systems."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/b3ce10da-1f0c-4665-a331-d0a476122028_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/b3ce10da-1f0c-4665-a331-d0a476122028_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Profesor asociado",
+            "startDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "Como Profesor Asociado en la Universidad Carlos III de Madrid, comparto mi pasión por la informática enseñando dos asignaturas en el Grado en Ingeniería Informática:\n\n- Ingeniería de Software: Enfocado en las metodologías, técnicas y herramientas utilizadas en el diseño, desarrollo y gestión de sistemas de software de calidad.\n- Ficheros y Bases de Datos: Explorando los fundamentos del almacenamiento, organización y gestión de datos, con énfasis en el diseño e implementación de bases de datos.\n\nEstoy bastante orgulloso de haber sido reconocido anualmente por la universidad por mis excelentes evaluaciones de sobre mi docencia. Enseñar estos cursos no es solo un trabajo para mí, es más un hobby que me permite inspirar y estar en contacto con la próxima generación de profesionales de la tecnología."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "7r Ventures",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/aefe84f8-6a1f-4789-b748-81021d48e19b_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/aefe84f8-6a1f-4789-b748-81021d48e19b_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO in Residence & Software Engineer (Pazy, Vivla, Ringo & Rento)",
+            "startDate": "2020-06-01",
+            "finishDate": "2023-03-31",
+            "challenges": [
+              {
+                "description": "As the CTO in Residence at 7r, I played an instrumental role in shaping the technology and product direction for the companies within our holding, developed in collaboration with our partners. My main responsibilities included:\n\n - Driving the development of minimum viable technology, allowing businesses to enter the market quickly while minimizing development costs.\n - Forming and leading technology teams, ensuring collaboration and alignment with our strategic vision.\n - Creating scalable technical solutions that facilitated rapid onboarding of new team members and enabled swift product enhancements.\n - Integrating technology efforts with overarching business strategies to foster growth and innovation for our portfolio companies.\n\nIn this role, I successfully bridged the gap between technology and business, ensuring that technical concepts were easily understandable by business-oriented individuals, ultimately driving success and innovation for our companies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rento Homes",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/3810d3da-3941-4eb1-98ee-4a583d5c1dd4_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/3810d3da-3941-4eb1-98ee-4a583d5c1dd4_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO in Residence & Software Engineer (7r Ventures)",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-04-30",
+            "challenges": [
+              {
+                "description": "En Rento, desempeñé un papel clave supervisando los aspectos de tecnología y desarrollo de producto. Mis responsabilidades principales incluyeron la construcción de un equipo 100% remoto con miembros ubicados en España y Brasil.\n\nLas tecnologías clave utilizadas durante mi tiempo en Rento incluyen:\n\n- Plataforma Google Cloud (GCP) para infraestructura, incluyendo despliegue continuo\n- TypeScript para el desarrollo de API y aplicaciones (Next.js y React)\n- PostgreSQL para la gestión de bases de datos\n\nTrabajando de cerca con el equipo, pudismo asegurar el desarrollo y despliegue del stack tecnológico, impulsando el crecimiento de la empresa. El trabajo realizado por el equipo permitió la adquisición de Rento por Pryconsa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "7r Ventures",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/21c75508-9436-4ee7-8044-a8b393ff8467_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/21c75508-9436-4ee7-8044-a8b393ff8467_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "As CTO at 7r, a company that helps create businesses, I played a key role in starting and growing innovative tech-based startups for our partners. \n\nMy responsibilities included:\n- Encouraging the creation of new ideas by using advanced technology to speed up development or focusing on tech-related skills.\n- Giving advice on product and technology plans, turning complicated technical ideas into easy-to-understand strategies for new or future projects.\n- Constantly learning about new technologies and discovering how they can be used to build successful businesses.\n- Developing small proof-of-concept tests to demonstrate the viability of ideas and technologies before moving forward with larger projects.\n- Led the creation of tech teams and worked closely with them to develop and use the needed technology solutions, making sure they quickly entered the market and make a profit.\n\nThis experience has greatly improved my business skills, helping me better understand and navigate the complicated relationship between technology and business strategy. I am excited to keep using this knowledge and expertise to achieve success and innovation in the always-changing world of technology."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BotOn",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/6c889e82-5d91-4ca2-b9f4-bff25de8cc10_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/6c889e82-5d91-4ca2-b9f4-bff25de8cc10_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO & Software Engineer (Astara Innovation & Venture Lab)",
+            "startDate": "2018-10-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
+              {
+                "description": "Como CTO en BotOn, una empresa de inteligencia de datos centrada en los datos de vehículos, lideré un equipo durante casi dos años, superando varios desafíos y entregando hitos significativos en un entorno de trabajo en gran parte remoto:\n\n- Construí el equipo de producto y tecnología desde cero, contratando talento de alto nivel con experiencia en desarrollo de software, ingeniería de datos e infraestructura en la nube, y fomentando una cultura de colaboración para un equipo en remoto.\n- Rehicimos el software y la infraestructura para hacerlo escalable escalabilidad, utilizando sistemas distribuidos, arquitectura de microservicios y técnicas de data-sharding para soportar miles de vehículos y millones de datos.\n- Desarrollamos plataformas con alta disponibilidad usando Ruby on Rails, servicios de AWS, Kubernetes y herramientas de infraestructura como código como Terraform y CloudFormation.\n- Gestioné el área de hardware, evaluando opciones y manteniendo la relación con proveedores para asegurar una integración sin problemas y un rendimiento óptimo.\n- Implementé la gestión de proyectos Agile, el Desarrollo Guiado por Pruebas (TDD) y los procesos de aseguramiento de la calidad para optimizar la eficiencia y efectividad del equipo.\n- Asistí en la planificación estratégica para el negocio, el producto y la tecnología, considerando las tendencias de la industria y los avances tecnológicos.\n- Transformamos la plataforma desde un punto de vista de UX, para poder mostrar los datos capturados mediante tecnologías de Big Data, procesos ETL y soluciones de almacenamiento de datos optimizadas.\n\nAdemás, abordé los desafíos de una plataforma mal diseñada optimizando y rediseñando la mayoría de las capas y aplicando las mejores prácticas en arquitectura de software, diseño de API y modelado de datos.\n\nPude demostrar mi capacidad para liderar equipos remotos, adaptarme a desafíos técnicos e impulsar el éxito de la empresa utilizando herramientas y tecnologías robustas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SocialDrive",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/859d11a4-c9bf-47c2-a565-d49444da36a7_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/859d11a4-c9bf-47c2-a565-d49444da36a7_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO & Software Engineer (Astara Innovation & Venture Lab)",
+            "startDate": "2017-08-01",
+            "finishDate": "2018-10-31",
+            "challenges": [
+              {
+                "description": "Como CTO en SocialDrive, lideré un equipo totalmente remoto en la gestión y mejora de una plataforma con más de un millón de usuarios activos, varias aplicaciones web y aplicaciones móviles para iOS y Android. Durante mi tiempo allí, lideré cómo mejorar la organización y cómo agilizar los procesos, así como gestionar el equipo y evolucionar el producto.\n\nAlgunas de mis responsabilidades:\n- Preparar a la empresa para la inversión organizando procesos y asegurando que la plataforma cumpliera con los requisitos de los inversores.\n- Transición del equipo a metodologías Agile, mejorando la colaboración y la eficiencia en la gestión de proyectos.\n- Transformar una arquitectura monolítica en un sistema más modular y mantenible.\n- Implementación de pruebas e implantación de una cultura de Desarrollo Guiado por Pruebas (TDD) para mejorar la calidad del código y reducir la deuda técnica.\n- Migrar la infraestructura de servidores físicos a soluciones basadas en la nube, aprovechando proveedores como AWS y optimizando el rendimiento, la escalabilidad y la seguridad.\n- Mejora de la seguridad de la plataforma implementando capas de seguridad, prácticas de codificación seguras y evaluaciones regulares de vulnerabilidad.\n- Supervisión del desarrollo y mejora de múltiples aplicaciones web y movil, asegurando la compatibilidad entre plataformas, utilizando Java para Android, Objective-C para iOS, y PHP + JavaScript para aplicaciones web.\n\nDurante mi tiempo en SocialDrive, adquirí experiencia en la dirección de equipos remotos y en la transición de sistemas heredados a sistemas más modernos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Astara Innovation & Venture Lab",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/fbd49102-d6b3-4566-9ca8-799ca977537e_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/fbd49102-d6b3-4566-9ca8-799ca977537e_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO & Software Engineer (Bot-On & SocialDrive)",
+            "startDate": "2017-08-01",
+            "finishDate": "2020-02-28",
+            "challenges": [
+              {
+                "description": "En Astara Innovation & Venture Lab (B4Motion), un incubadora de tecnología centrada en la movilidad, lideré dos proyectos clave que demuestran mi capacidad para impulsar el crecimiento y la innovación tanto en empresas con un plataformas ya creadas, como en empresas de reciente creación.\n\n- SocialDrive: Desempeñé un papel crucial en acelerar el crecimiento de una empresa existente, aprovechando la experiencia técnica y la visión estratégica para reforzar su posición en el mercado y fomentar una cultura de mejora continua. (más detalles en su propia descripción)\n\n- Bot-On: Como el primer empleado de una startup, gestioné la transición de la tecnología y los recursos del equipo externo a un nuevo equipo interno, creando una visión de producto atractiva, desarrollando una hoja de ruta del producto y construyendo un equipo de primer excepcional de ingenieros y diseñadores. (más detalles en su propia descripción)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "coches.com & autodescuento.com",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/aeb9fb67-35a5-493a-96c2-27bb297488c9_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/aeb9fb67-35a5-493a-96c2-27bb297488c9_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO & Software Engineer ",
+            "startDate": "2015-04-01",
+            "finishDate": "2017-06-30",
+            "challenges": [
+              {
+                "description": "En coches.com tuve la oportunidad de crecer tanto como Ingeniero de Software como líder tecnológico (CTO). Durante mi tiempo allí, la empresa experimentó un crecimiento significativo, expandiéndose de 10 empleados a más de 50. Conseguí cuadar mis responsabilidades profesionales con la obtención de mi máster/posgrado.\n\nEn Coches.com, jugué un papel crucial en la expansión de la plataforma de miles a cientos de miles de usuarios diarios. Trabajando con distintos equipos (atención al cliente, producto, ventas, marketing y tecnología), tuve la suerte de contribuir al éxito general de la empresa.\n\nAlgunas de las tecnologías y metodologías con las que trabajé:\n\n- Desarrollo de backend con PHP y el framework Yii\n- Implementación de mecanismos de caché como Memcached y Redis para mejorar el rendimiento y la escalabilidad\n- Gestión y optimización de bases de datos con bases de datos SQL (MySQL)\n- Implementación y optimización de motores de búsqueda usando Elasticsearch y Apache Solr\n- Adopción de Pipelines de Integración Continua y Despliegue Continuo (CI/CD) usando herramientas como Jenkins y GitLab CI\n- Implementación de las mejores prácticas de desarrollo de software, como los principios SOLID, Desarrollo Guiado por Pruebas (TDD), y metodologías ágiles como Scrum y Kanban\n- Utilización de herramientas y otros de desarrollo de software de calidad y la colaboración, incluyendo JIRA, Confluence y Git\n\nBajo mi liderazgo, el equipo de tecnología creció en competencia y adoptó metodologías de desarrollo que garantizaron software de alta calidad y flujos de trabajo eficientes. Mi experiencia en Coches.com me ha dotado de las habilidades para gestionar proyectos a gran escala, impulsar la innovación y liderar equipos interfuncionales hacia el éxito manteniendo un fuerte enfoque técnico."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "coches.com & autodescuento.com",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/855cb2da-c917-43f4-954c-1ffb16cd901a_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/855cb2da-c917-43f4-954c-1ffb16cd901a_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer ",
+            "startDate": "2013-12-01",
+            "finishDate": "2015-04-30",
+            "challenges": [
+              {
+                "description": "Como he explicado con más detalle anteriormente, como Ingeniero de Software en Coches.com, jugué un papel clave en la expansión de la plataforma para soportar a cientos de miles de usuarios diarios mientras implementaba las mejores prácticas como los principios SOLID y TDD. Formé parte del desarrollo de las distintas plataformas así como de la optimización del rendimiento de las bases de datos SQL y distintos sistemas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DAEDALUS, S.A.",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/2e2c9616-3677-4f5f-ac08-9f22c04eb028_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/2e2c9616-3677-4f5f-ac08-9f22c04eb028_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2007-03-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Trabajé como Ingeniero de Software en Daedalus, donde mi labor principal fue investigar y desarrollar soluciones avanzadas en Procesamiento de Lenguaje Natural (PLN), Minería de Datos y Gestión del Conocimiento. Durante mi tiempo allí, contribuí a varios proyectos relacionados con sistemas y operaciones, incluyendo la transición de servidores físicos a infraestructura en la nube.\n\nMi experiencia técnica en Daedalus incluyó:\n- Herramientas y técnicas de PLN: Etiquetado POS, análisis de dependencias, análisis de sentimientos y reconocimiento de entidades nombradas utilizando NLTK, OpenNLP y GATE.\n- Minería de Datos y Aprendizaje Automático: Extracción de características, clasificación, agrupamiento y reducción de dimensionalidad usando Weka, scikit-learn y RapidMiner.\n- Gestión del Conocimiento: Ingeniería de ontologías, tecnologías de la web semántica y representación del conocimiento utilizando Protege, OWL, RDF y SPARQL.\n- Plataformas en la nube: Implementación de Infraestructura como Servicio (IaaS) y Plataforma como Servicio (PaaS) en Amazon Web Services (AWS).\n- Sistemas de control de versiones: Gestión de repositorios, ramificación y fusión usando Git y SVN.\n- Lenguajes y paradigmas de programación: Programación orientada a objetos, programación funcional y scripting usando Python, Java y R.\n\nTrabajar en Daedalus me enseñó a resolver problemas difíciles en inteligencia artificial y trabajo con datos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/a5e60b27-8abf-489e-851e-c73607a43887_linkedin-photo-362.linkedin-photo-362",
+            "alt": "23/11/27/a5e60b27-8abf-489e-851e-c73607a43887_linkedin-photo-362.linkedin-photo-362"
+          }
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de laboratorio",
+            "startDate": "2006-10-01",
+            "finishDate": "2007-03-31",
+            "challenges": [
+              {
+                "description": "Trabajé en el Departamento de Electrónica, donde fui responsable de:\n\n1. Proporcionar apoyo a los miembros del profesorado mediante:\n - Diseño y creación de Placas de Circuito Impreso (PCB) utilizando software estándar de la industria como Altium Designer y Cadence OrCAD.\n - Desarrollo de Circuitos Integrados (IC) y soluciones SoC utilizando herramientas de Automatización de Diseño Electrónico (EDA) como Synopsys y Mentor Graphics.\n - Solución de problemas y reparación de equipos electrónicos, utilizando mis conocimientos en circuitos digitales y analógicos.\n2. Programación de microprocesadores y FPGAs mediante:\n - Desarrollo de firmware para microcontroladores, como PIC, Atmel AVR, y la serie ARM Cortex, en C/C++ y herramientas de depuración como IAR Embedded Workbench y Keil μVision.\n - Diseño, implementación, y prueba de circuitos digitales en FPGAs utilizandoHDLs como VHDL y Verilog, junto con herramientas de desarrollo como Xilinx ISE y Altera Quartus."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {

@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Gustavo",
-      "surnames": "Mulet Fernández",
-      "title": "Software Developer | .NET Java Python @Quonversa",
+      "name": "Jordi",
+      "surnames": "Paloma",
+      "title": "Cloud architect & Kubernetes fan",
       "description": "Profesional con mentalidad emprendedora, he colaborado con empresas para desarrollar automatizaciones mediante el proceso de lenguaje natural o \"NLP\". Actualmente, trabajo en Quonversa como desarrollador de Chatbots mediante el uso de tecnologías como .NET o Dialogflow ES y CX.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/48885d2b-b043-4487-a1a8-ba367337766e_linkedin-photo-362.linkedin-photo-362",
-        "alt": "23/11/27/48885d2b-b043-4487-a1a8-ba367337766e_linkedin-photo-362.linkedin-photo-362"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/ca97e378-c7d9-4550-a82c-012feb42b4e0_linkedin-photo-362.linkedin-photo-362",
+        "alt": "23/11/27/ca97e378-c7d9-4550-a82c-012feb42b4e0_linkedin-photo-362.linkedin-photo-362"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
-        "region": "Islas Baleares",
-        "municipality": "Palma"
+        "region": "Cataluña",
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
@@ -29,49 +29,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "TravelgateX",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/7956002f-1474-403b-8059-91b80b6ea3c3_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/7956002f-1474-403b-8059-91b80b6ea3c3_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de software",
-            "startDate": "2023-01-01",
-            "finishDate": "2023-11-30",
-            "challenges": [
-              {
-                "description": "Dentro de Travelgate, contribuí al desarrollo y entrega de un chatbot personalizado para la empresa, así como a su implementación para proporcionar a nuestros clientes acceso a las estadísticas empresariales. También participé en el mantenimiento de integraciones dentro del equipo CORE de TGX, brindando soporte a los clientes que requerían asistencia. Utilizamos tecnologías como C# .NET 6 y GitLab para lograr estos objetivos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Quonversa",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/11/27/94441004-b8b8-497b-b91a-67e8bb1d8d37_linkedin-photo-362.linkedin-photo-362",
-            "alt": "23/11/27/94441004-b8b8-497b-b91a-67e8bb1d8d37_linkedin-photo-362.linkedin-photo-362"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de software",
-            "startDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": "El motor de la automatización de procesos de Quonversa amplía las posibilidades de lo que puede ser resuelto sin intervención humana. El motor flexible de flujos de trabajo tiene la capacidad de incorporar múltiples soluciones externas mediante Integraciones. Como desarrollo personal he conseguido varios puntos:\n· Creación y mantenimiento de APIs REST, garantizando un flujo de datos e integración sin inconvenientes.\n· Gestión de despliegues, asegurando el funcionamiento eficiente de nuestras aplicaciones.\n· Procesamiento del Lenguaje Natural (NLP) para potenciar las capacidades de nuestros chatbots.\n· Diseño e implementación de flujos personalizados para cada chatbot, adaptándolos a su caso de uso específico.\n· Desarrollo de un chatbot para la industria hotelera, ofreciendo una experiencia de atención al cliente interactiva y automatizada.\n· Creación de un chatbot para información de vuelos, simplificando el proceso de reservas y consultas de vuelos."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
